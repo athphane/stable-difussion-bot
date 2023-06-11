@@ -1,0 +1,6 @@
+output_images/*
+config.ini
+stablebot.session
+stablebot.session-journal
+venv
+.idea
