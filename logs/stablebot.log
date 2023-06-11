@@ -1,749 +1,555 @@
-2023-06-11 20:19:41,576 - pyrogram.session.auth - INFO - Start creating a new auth key on DC2
-2023-06-11 20:19:41,576 - pyrogram.connection.connection - INFO - Connecting...
-2023-06-11 20:19:41,768 - pyrogram.connection.connection - INFO - Connected! Production DC2 - IPv4
-2023-06-11 20:19:43,410 - pyrogram.session.auth - INFO - Done auth key exchange: DhGenOk
-2023-06-11 20:19:43,411 - pyrogram.connection.connection - INFO - Disconnected
-2023-06-11 20:19:43,422 - pyrogram.connection.connection - INFO - Connecting...
-2023-06-11 20:19:43,636 - pyrogram.connection.connection - INFO - Connected! Production DC2 - IPv4
-2023-06-11 20:19:43,637 - pyrogram.session.session - INFO - NetworkTask started
-2023-06-11 20:19:44,543 - pyrogram.session.session - INFO - Session initialized: Layer 158
-2023-06-11 20:19:44,543 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
-2023-06-11 20:19:44,544 - pyrogram.session.session - INFO - System: Windows 10 (en)
-2023-06-11 20:19:44,544 - pyrogram.session.session - INFO - Session started
-2023-06-11 20:19:44,546 - pyrogram.session.session - INFO - PingTask started
-2023-06-11 20:19:44,779 - pyrogram.session.session - INFO - PingTask stopped
-2023-06-11 20:19:44,780 - pyrogram.connection.connection - INFO - Disconnected
-2023-06-11 20:19:44,780 - pyrogram.session.session - INFO - NetworkTask stopped
-2023-06-11 20:19:44,780 - pyrogram.session.session - INFO - Session stopped
-2023-06-11 20:19:44,787 - pyrogram.session.auth - INFO - Start creating a new auth key on DC5
-2023-06-11 20:19:44,787 - pyrogram.connection.connection - INFO - Connecting...
-2023-06-11 20:19:44,838 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
-2023-06-11 20:19:45,839 - pyrogram.session.auth - INFO - Done auth key exchange: DhGenOk
-2023-06-11 20:19:45,840 - pyrogram.connection.connection - INFO - Disconnected
-2023-06-11 20:19:45,849 - pyrogram.connection.connection - INFO - Connecting...
-2023-06-11 20:19:45,898 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
-2023-06-11 20:19:45,899 - pyrogram.session.session - INFO - NetworkTask started
-2023-06-11 20:19:46,157 - pyrogram.session.session - INFO - Session initialized: Layer 158
-2023-06-11 20:19:46,158 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
-2023-06-11 20:19:46,158 - pyrogram.session.session - INFO - System: Windows 10 (en)
-2023-06-11 20:19:46,158 - pyrogram.session.session - INFO - Session started
-2023-06-11 20:19:46,158 - pyrogram.session.session - INFO - PingTask started
-2023-06-11 20:19:46,422 - pyrogram.client - WARNING - [stablebot] No plugin loaded from "stablebot/plugins"
-2023-06-11 20:19:46,422 - pyrogram.dispatcher - INFO - Started 16 HandlerTasks
-2023-06-11 21:43:51,618 - root - INFO - Stop signal received (SIGINT). Exiting...
-2023-06-11 21:43:51,631 - pyrogram.dispatcher - INFO - Stopped 16 HandlerTasks
-2023-06-11 21:43:51,631 - pyrogram.session.session - INFO - PingTask stopped
-2023-06-11 21:43:51,632 - pyrogram.connection.connection - INFO - Disconnected
-2023-06-11 21:43:51,632 - pyrogram.session.session - INFO - NetworkTask stopped
-2023-06-11 21:43:51,633 - pyrogram.session.session - INFO - Session stopped
-2023-06-11 21:43:54,433 - pyrogram.connection.connection - INFO - Connecting...
-2023-06-11 21:43:54,482 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
-2023-06-11 21:43:54,483 - pyrogram.session.session - INFO - NetworkTask started
-2023-06-11 21:43:54,805 - pyrogram.session.session - INFO - Session initialized: Layer 158
-2023-06-11 21:43:54,806 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
-2023-06-11 21:43:54,806 - pyrogram.session.session - INFO - System: Windows 10 (en)
-2023-06-11 21:43:54,806 - pyrogram.session.session - INFO - Session started
-2023-06-11 21:43:54,810 - pyrogram.session.session - INFO - PingTask started
-2023-06-11 21:43:55,152 - pyrogram.client - WARNING - [stablebot] No plugin loaded from "stablebot/plugins"
-2023-06-11 21:43:55,152 - pyrogram.dispatcher - INFO - Started 16 HandlerTasks
-2023-06-11 21:44:05,508 - pyrogram.dispatcher - ERROR - 'images'
+2023-06-12 00:06:33,764 - root - INFO - Stop signal received (SIGINT). Exiting...
+2023-06-12 00:06:33,776 - pyrogram.dispatcher - INFO - Stopped 16 HandlerTasks
+2023-06-12 00:06:33,776 - pyrogram.session.session - INFO - PingTask stopped
+2023-06-12 00:06:33,777 - pyrogram.connection.connection - INFO - Disconnected
+2023-06-12 00:06:33,777 - pyrogram.session.session - INFO - NetworkTask stopped
+2023-06-12 00:06:33,777 - pyrogram.session.session - INFO - Session stopped
+2023-06-12 00:06:36,628 - pyrogram.connection.connection - INFO - Connecting...
+2023-06-12 00:06:36,678 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
+2023-06-12 00:06:36,679 - pyrogram.session.session - INFO - NetworkTask started
+2023-06-12 00:06:36,931 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2023-06-12 00:06:36,931 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
+2023-06-12 00:06:36,931 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2023-06-12 00:06:36,932 - pyrogram.session.session - INFO - Session started
+2023-06-12 00:06:36,935 - pyrogram.session.session - INFO - PingTask started
+2023-06-12 00:06:37,195 - pyrogram.client - WARNING - [stablebot] No plugin loaded from "stablebot/plugins"
+2023-06-12 00:06:37,196 - pyrogram.dispatcher - INFO - Started 16 HandlerTasks
+2023-06-12 00:07:16,824 - pyrogram.connection.connection - INFO - Connecting...
+2023-06-12 00:07:16,875 - pyrogram.connection.connection - INFO - Connected! Production DC5 (media) - IPv4
+2023-06-12 00:07:16,875 - pyrogram.session.session - INFO - NetworkTask started
+2023-06-12 00:07:17,130 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2023-06-12 00:07:17,130 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
+2023-06-12 00:07:17,130 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2023-06-12 00:07:17,131 - pyrogram.session.session - INFO - Session started
+2023-06-12 00:07:17,132 - pyrogram.session.session - INFO - PingTask started
+2023-06-12 00:07:17,449 - pyrogram.session.session - INFO - PingTask stopped
+2023-06-12 00:07:17,449 - pyrogram.connection.connection - INFO - Disconnected
+2023-06-12 00:07:17,450 - pyrogram.session.session - INFO - NetworkTask stopped
+2023-06-12 00:07:17,450 - pyrogram.session.session - INFO - Session stopped
+2023-06-12 00:08:05,088 - pyrogram.connection.connection - INFO - Connecting...
+2023-06-12 00:08:05,138 - pyrogram.connection.connection - INFO - Connected! Production DC5 (media) - IPv4
+2023-06-12 00:08:05,138 - pyrogram.session.session - INFO - NetworkTask started
+2023-06-12 00:08:05,398 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2023-06-12 00:08:05,399 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
+2023-06-12 00:08:05,399 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2023-06-12 00:08:05,399 - pyrogram.session.session - INFO - Session started
+2023-06-12 00:08:05,400 - pyrogram.session.session - INFO - PingTask started
+2023-06-12 00:08:05,731 - pyrogram.session.session - INFO - PingTask stopped
+2023-06-12 00:08:05,731 - pyrogram.connection.connection - INFO - Disconnected
+2023-06-12 00:08:05,732 - pyrogram.session.session - INFO - NetworkTask stopped
+2023-06-12 00:08:05,732 - pyrogram.session.session - INFO - Session stopped
+2023-06-12 00:08:20,707 - pyrogram.connection.connection - INFO - Connecting...
+2023-06-12 00:08:20,708 - pyrogram.session.session - INFO - NetworkTask stopped
+2023-06-12 00:08:20,708 - pyrogram.session.session - INFO - PingTask stopped
+2023-06-12 00:08:20,708 - pyrogram.connection.connection - INFO - Disconnected
+2023-06-12 00:08:20,708 - pyrogram.session.session - INFO - Session stopped
+2023-06-12 00:08:20,709 - pyrogram.connection.connection - INFO - Connecting...
+2023-06-12 00:08:20,758 - pyrogram.connection.connection - INFO - Connected! Production DC5 (media) - IPv4
+2023-06-12 00:08:20,758 - pyrogram.session.session - INFO - NetworkTask started
+2023-06-12 00:08:20,759 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
+2023-06-12 00:08:20,759 - pyrogram.session.session - INFO - NetworkTask started
+2023-06-12 00:08:20,964 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2023-06-12 00:08:20,964 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
+2023-06-12 00:08:20,964 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2023-06-12 00:08:20,964 - pyrogram.session.session - INFO - Session started
+2023-06-12 00:08:20,965 - pyrogram.session.session - INFO - PingTask started
+2023-06-12 00:08:21,018 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2023-06-12 00:08:21,018 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
+2023-06-12 00:08:21,018 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2023-06-12 00:08:21,019 - pyrogram.session.session - INFO - Session started
+2023-06-12 00:08:21,019 - pyrogram.session.session - INFO - PingTask started
+2023-06-12 00:08:21,415 - pyrogram.session.session - INFO - PingTask stopped
+2023-06-12 00:08:21,415 - pyrogram.connection.connection - INFO - Disconnected
+2023-06-12 00:08:21,416 - pyrogram.session.session - INFO - NetworkTask stopped
+2023-06-12 00:08:21,416 - pyrogram.session.session - INFO - Session stopped
+2023-06-12 00:08:23,597 - pyrogram.connection.connection - INFO - Connecting...
+2023-06-12 00:08:23,647 - pyrogram.connection.connection - INFO - Connected! Production DC5 (media) - IPv4
+2023-06-12 00:08:23,648 - pyrogram.session.session - INFO - NetworkTask started
+2023-06-12 00:08:23,903 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2023-06-12 00:08:23,903 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
+2023-06-12 00:08:23,903 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2023-06-12 00:08:23,904 - pyrogram.session.session - INFO - Session started
+2023-06-12 00:08:23,905 - pyrogram.session.session - INFO - PingTask started
+2023-06-12 00:08:24,242 - pyrogram.session.session - INFO - PingTask stopped
+2023-06-12 00:08:24,242 - pyrogram.connection.connection - INFO - Disconnected
+2023-06-12 00:08:24,242 - pyrogram.session.session - INFO - NetworkTask stopped
+2023-06-12 00:08:24,242 - pyrogram.session.session - INFO - Session stopped
+2023-06-12 00:09:30,855 - pyrogram.connection.connection - INFO - Connecting...
+2023-06-12 00:09:30,905 - pyrogram.connection.connection - INFO - Connected! Production DC5 (media) - IPv4
+2023-06-12 00:09:30,906 - pyrogram.session.session - INFO - NetworkTask started
+2023-06-12 00:09:31,156 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2023-06-12 00:09:31,156 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
+2023-06-12 00:09:31,157 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2023-06-12 00:09:31,157 - pyrogram.session.session - INFO - Session started
+2023-06-12 00:09:31,158 - pyrogram.session.session - INFO - PingTask started
+2023-06-12 00:09:31,473 - pyrogram.session.session - INFO - PingTask stopped
+2023-06-12 00:09:31,474 - pyrogram.connection.connection - INFO - Disconnected
+2023-06-12 00:09:31,474 - pyrogram.session.session - INFO - NetworkTask stopped
+2023-06-12 00:09:31,474 - pyrogram.session.session - INFO - Session stopped
+2023-06-12 00:09:40,250 - pyrogram.connection.connection - INFO - Connecting...
+2023-06-12 00:09:40,300 - pyrogram.connection.connection - INFO - Connected! Production DC5 (media) - IPv4
+2023-06-12 00:09:40,301 - pyrogram.session.session - INFO - NetworkTask started
+2023-06-12 00:09:40,557 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2023-06-12 00:09:40,558 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
+2023-06-12 00:09:40,558 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2023-06-12 00:09:40,558 - pyrogram.session.session - INFO - Session started
+2023-06-12 00:09:40,559 - pyrogram.session.session - INFO - PingTask started
+2023-06-12 00:09:40,883 - pyrogram.session.session - INFO - PingTask stopped
+2023-06-12 00:09:40,884 - pyrogram.connection.connection - INFO - Disconnected
+2023-06-12 00:09:40,884 - pyrogram.session.session - INFO - NetworkTask stopped
+2023-06-12 00:09:40,884 - pyrogram.session.session - INFO - Session stopped
+2023-06-12 00:10:29,288 - pyrogram.connection.connection - INFO - Connecting...
+2023-06-12 00:10:29,338 - pyrogram.connection.connection - INFO - Connected! Production DC5 (media) - IPv4
+2023-06-12 00:10:29,339 - pyrogram.session.session - INFO - NetworkTask started
+2023-06-12 00:10:29,593 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2023-06-12 00:10:29,593 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
+2023-06-12 00:10:29,593 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2023-06-12 00:10:29,594 - pyrogram.session.session - INFO - Session started
+2023-06-12 00:10:29,594 - pyrogram.session.session - INFO - PingTask started
+2023-06-12 00:10:29,897 - pyrogram.session.session - INFO - PingTask stopped
+2023-06-12 00:10:29,897 - pyrogram.connection.connection - INFO - Disconnected
+2023-06-12 00:10:29,897 - pyrogram.session.session - INFO - NetworkTask stopped
+2023-06-12 00:10:29,897 - pyrogram.session.session - INFO - Session stopped
+2023-06-12 00:11:09,262 - pyrogram.connection.connection - INFO - Connecting...
+2023-06-12 00:11:09,314 - pyrogram.connection.connection - INFO - Connected! Production DC5 (media) - IPv4
+2023-06-12 00:11:09,315 - pyrogram.session.session - INFO - NetworkTask started
+2023-06-12 00:11:09,570 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2023-06-12 00:11:09,570 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
+2023-06-12 00:11:09,570 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2023-06-12 00:11:09,571 - pyrogram.session.session - INFO - Session started
+2023-06-12 00:11:09,572 - pyrogram.session.session - INFO - PingTask started
+2023-06-12 00:11:09,856 - pyrogram.session.session - INFO - PingTask stopped
+2023-06-12 00:11:09,856 - pyrogram.connection.connection - INFO - Disconnected
+2023-06-12 00:11:09,856 - pyrogram.session.session - INFO - NetworkTask stopped
+2023-06-12 00:11:09,857 - pyrogram.session.session - INFO - Session stopped
+2023-06-12 00:11:26,867 - pyrogram.connection.connection - INFO - Connecting...
+2023-06-12 00:11:26,918 - pyrogram.connection.connection - INFO - Connected! Production DC5 (media) - IPv4
+2023-06-12 00:11:26,918 - pyrogram.session.session - INFO - NetworkTask started
+2023-06-12 00:11:27,184 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2023-06-12 00:11:27,185 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
+2023-06-12 00:11:27,185 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2023-06-12 00:11:27,185 - pyrogram.session.session - INFO - Session started
+2023-06-12 00:11:27,186 - pyrogram.session.session - INFO - PingTask started
+2023-06-12 00:11:27,506 - pyrogram.session.session - INFO - PingTask stopped
+2023-06-12 00:11:27,506 - pyrogram.connection.connection - INFO - Disconnected
+2023-06-12 00:11:27,507 - pyrogram.session.session - INFO - NetworkTask stopped
+2023-06-12 00:11:27,507 - pyrogram.session.session - INFO - Session stopped
+2023-06-12 00:12:15,781 - pyrogram.connection.connection - INFO - Connecting...
+2023-06-12 00:12:15,832 - pyrogram.connection.connection - INFO - Connected! Production DC5 (media) - IPv4
+2023-06-12 00:12:15,832 - pyrogram.session.session - INFO - NetworkTask started
+2023-06-12 00:12:16,078 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2023-06-12 00:12:16,078 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
+2023-06-12 00:12:16,079 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2023-06-12 00:12:16,079 - pyrogram.session.session - INFO - Session started
+2023-06-12 00:12:16,080 - pyrogram.session.session - INFO - PingTask started
+2023-06-12 00:12:16,395 - pyrogram.session.session - INFO - PingTask stopped
+2023-06-12 00:12:16,396 - pyrogram.connection.connection - INFO - Disconnected
+2023-06-12 00:12:16,396 - pyrogram.session.session - INFO - NetworkTask stopped
+2023-06-12 00:12:16,396 - pyrogram.session.session - INFO - Session stopped
+2023-06-12 00:13:13,045 - pyrogram.connection.connection - INFO - Connecting...
+2023-06-12 00:13:13,095 - pyrogram.connection.connection - INFO - Connected! Production DC5 (media) - IPv4
+2023-06-12 00:13:13,096 - pyrogram.session.session - INFO - NetworkTask started
+2023-06-12 00:13:13,358 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2023-06-12 00:13:13,359 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
+2023-06-12 00:13:13,359 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2023-06-12 00:13:13,359 - pyrogram.session.session - INFO - Session started
+2023-06-12 00:13:13,360 - pyrogram.session.session - INFO - PingTask started
+2023-06-12 00:13:13,737 - pyrogram.session.session - INFO - PingTask stopped
+2023-06-12 00:13:13,737 - pyrogram.connection.connection - INFO - Disconnected
+2023-06-12 00:13:13,738 - pyrogram.session.session - INFO - NetworkTask stopped
+2023-06-12 00:13:13,738 - pyrogram.session.session - INFO - Session stopped
+2023-06-12 00:13:37,583 - pyrogram.connection.connection - INFO - Connecting...
+2023-06-12 00:13:37,583 - pyrogram.session.session - INFO - NetworkTask stopped
+2023-06-12 00:13:37,584 - pyrogram.session.session - INFO - PingTask stopped
+2023-06-12 00:13:37,584 - pyrogram.connection.connection - INFO - Disconnected
+2023-06-12 00:13:37,584 - pyrogram.session.session - INFO - Session stopped
+2023-06-12 00:13:37,584 - pyrogram.connection.connection - INFO - Connecting...
+2023-06-12 00:13:37,633 - pyrogram.connection.connection - INFO - Connected! Production DC5 (media) - IPv4
+2023-06-12 00:13:37,634 - pyrogram.session.session - INFO - NetworkTask started
+2023-06-12 00:13:37,634 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
+2023-06-12 00:13:37,635 - pyrogram.session.session - INFO - NetworkTask started
+2023-06-12 00:13:37,859 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2023-06-12 00:13:37,860 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
+2023-06-12 00:13:37,860 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2023-06-12 00:13:37,860 - pyrogram.session.session - INFO - Session started
+2023-06-12 00:13:37,860 - pyrogram.session.session - INFO - PingTask started
+2023-06-12 00:13:37,910 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2023-06-12 00:13:37,911 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
+2023-06-12 00:13:37,911 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2023-06-12 00:13:37,911 - pyrogram.session.session - INFO - Session started
+2023-06-12 00:13:37,912 - pyrogram.session.session - INFO - PingTask started
+2023-06-12 00:13:38,272 - pyrogram.session.session - INFO - PingTask stopped
+2023-06-12 00:13:38,273 - pyrogram.connection.connection - INFO - Disconnected
+2023-06-12 00:13:38,273 - pyrogram.session.session - INFO - NetworkTask stopped
+2023-06-12 00:13:38,273 - pyrogram.session.session - INFO - Session stopped
+2023-06-12 00:14:42,541 - pyrogram.connection.connection - INFO - Connecting...
+2023-06-12 00:14:42,542 - pyrogram.session.session - INFO - NetworkTask stopped
+2023-06-12 00:14:42,542 - pyrogram.session.session - INFO - PingTask stopped
+2023-06-12 00:14:42,543 - pyrogram.connection.connection - INFO - Disconnected
+2023-06-12 00:14:42,543 - pyrogram.session.session - INFO - Session stopped
+2023-06-12 00:14:42,543 - pyrogram.connection.connection - INFO - Connecting...
+2023-06-12 00:14:42,592 - pyrogram.connection.connection - INFO - Connected! Production DC5 (media) - IPv4
+2023-06-12 00:14:42,593 - pyrogram.session.session - INFO - NetworkTask started
+2023-06-12 00:14:42,593 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
+2023-06-12 00:14:42,594 - pyrogram.session.session - INFO - NetworkTask started
+2023-06-12 00:14:42,791 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2023-06-12 00:14:42,792 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
+2023-06-12 00:14:42,792 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2023-06-12 00:14:42,792 - pyrogram.session.session - INFO - Session started
+2023-06-12 00:14:42,792 - pyrogram.session.session - INFO - PingTask started
+2023-06-12 00:14:42,845 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2023-06-12 00:14:42,845 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
+2023-06-12 00:14:42,845 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2023-06-12 00:14:42,845 - pyrogram.session.session - INFO - Session started
+2023-06-12 00:14:42,846 - pyrogram.session.session - INFO - PingTask started
+2023-06-12 00:14:43,178 - pyrogram.session.session - INFO - PingTask stopped
+2023-06-12 00:14:43,179 - pyrogram.connection.connection - INFO - Disconnected
+2023-06-12 00:14:43,179 - pyrogram.session.session - INFO - NetworkTask stopped
+2023-06-12 00:14:43,179 - pyrogram.session.session - INFO - Session stopped
+2023-06-12 00:15:11,021 - pyrogram.connection.connection - INFO - Connecting...
+2023-06-12 00:15:11,070 - pyrogram.connection.connection - INFO - Connected! Production DC5 (media) - IPv4
+2023-06-12 00:15:11,071 - pyrogram.session.session - INFO - NetworkTask started
+2023-06-12 00:15:11,329 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2023-06-12 00:15:11,329 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
+2023-06-12 00:15:11,330 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2023-06-12 00:15:11,330 - pyrogram.session.session - INFO - Session started
+2023-06-12 00:15:11,331 - pyrogram.session.session - INFO - PingTask started
+2023-06-12 00:15:11,693 - pyrogram.session.session - INFO - PingTask stopped
+2023-06-12 00:15:11,693 - pyrogram.connection.connection - INFO - Disconnected
+2023-06-12 00:15:11,693 - pyrogram.session.session - INFO - NetworkTask stopped
+2023-06-12 00:15:11,694 - pyrogram.session.session - INFO - Session stopped
+2023-06-12 00:15:48,590 - pyrogram.connection.connection - INFO - Connecting...
+2023-06-12 00:15:48,640 - pyrogram.connection.connection - INFO - Connected! Production DC5 (media) - IPv4
+2023-06-12 00:15:48,641 - pyrogram.session.session - INFO - NetworkTask started
+2023-06-12 00:15:48,899 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2023-06-12 00:15:48,899 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
+2023-06-12 00:15:48,900 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2023-06-12 00:15:48,900 - pyrogram.session.session - INFO - Session started
+2023-06-12 00:15:48,901 - pyrogram.session.session - INFO - PingTask started
+2023-06-12 00:15:49,190 - pyrogram.session.session - INFO - PingTask stopped
+2023-06-12 00:15:49,191 - pyrogram.connection.connection - INFO - Disconnected
+2023-06-12 00:15:49,191 - pyrogram.session.session - INFO - NetworkTask stopped
+2023-06-12 00:15:49,191 - pyrogram.session.session - INFO - Session stopped
+2023-06-12 00:16:25,136 - pyrogram.connection.connection - INFO - Connecting...
+2023-06-12 00:16:25,186 - pyrogram.connection.connection - INFO - Connected! Production DC5 (media) - IPv4
+2023-06-12 00:16:25,187 - pyrogram.session.session - INFO - NetworkTask started
+2023-06-12 00:16:25,435 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2023-06-12 00:16:25,436 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
+2023-06-12 00:16:25,436 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2023-06-12 00:16:25,436 - pyrogram.session.session - INFO - Session started
+2023-06-12 00:16:25,437 - pyrogram.session.session - INFO - PingTask started
+2023-06-12 00:16:25,752 - pyrogram.session.session - INFO - PingTask stopped
+2023-06-12 00:16:25,752 - pyrogram.connection.connection - INFO - Disconnected
+2023-06-12 00:16:25,753 - pyrogram.session.session - INFO - NetworkTask stopped
+2023-06-12 00:16:25,753 - pyrogram.session.session - INFO - Session stopped
+2023-06-12 00:16:47,065 - pyrogram.connection.connection - INFO - Connecting...
+2023-06-12 00:16:47,116 - pyrogram.connection.connection - INFO - Connected! Production DC5 (media) - IPv4
+2023-06-12 00:16:47,116 - pyrogram.session.session - INFO - NetworkTask started
+2023-06-12 00:16:47,374 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2023-06-12 00:16:47,374 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
+2023-06-12 00:16:47,374 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2023-06-12 00:16:47,375 - pyrogram.session.session - INFO - Session started
+2023-06-12 00:16:47,376 - pyrogram.session.session - INFO - PingTask started
+2023-06-12 00:16:47,711 - pyrogram.session.session - INFO - PingTask stopped
+2023-06-12 00:16:47,711 - pyrogram.connection.connection - INFO - Disconnected
+2023-06-12 00:16:47,712 - pyrogram.session.session - INFO - NetworkTask stopped
+2023-06-12 00:16:47,712 - pyrogram.session.session - INFO - Session stopped
+2023-06-12 00:17:13,689 - pyrogram.connection.connection - INFO - Connecting...
+2023-06-12 00:17:13,740 - pyrogram.connection.connection - INFO - Connected! Production DC5 (media) - IPv4
+2023-06-12 00:17:13,740 - pyrogram.session.session - INFO - NetworkTask started
+2023-06-12 00:17:13,995 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2023-06-12 00:17:13,996 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
+2023-06-12 00:17:13,996 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2023-06-12 00:17:13,996 - pyrogram.session.session - INFO - Session started
+2023-06-12 00:17:13,997 - pyrogram.session.session - INFO - PingTask started
+2023-06-12 00:17:14,351 - pyrogram.session.session - INFO - PingTask stopped
+2023-06-12 00:17:14,352 - pyrogram.connection.connection - INFO - Disconnected
+2023-06-12 00:17:14,352 - pyrogram.session.session - INFO - NetworkTask stopped
+2023-06-12 00:17:14,352 - pyrogram.session.session - INFO - Session stopped
+2023-06-12 00:17:24,551 - pyrogram.connection.connection - INFO - Connecting...
+2023-06-12 00:17:24,602 - pyrogram.connection.connection - INFO - Connected! Production DC5 (media) - IPv4
+2023-06-12 00:17:24,602 - pyrogram.session.session - INFO - NetworkTask started
+2023-06-12 00:17:24,885 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2023-06-12 00:17:24,885 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
+2023-06-12 00:17:24,886 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2023-06-12 00:17:24,886 - pyrogram.session.session - INFO - Session started
+2023-06-12 00:17:24,887 - pyrogram.session.session - INFO - PingTask started
+2023-06-12 00:17:25,337 - pyrogram.session.session - INFO - PingTask stopped
+2023-06-12 00:17:25,337 - pyrogram.connection.connection - INFO - Disconnected
+2023-06-12 00:17:25,338 - pyrogram.session.session - INFO - NetworkTask stopped
+2023-06-12 00:17:25,338 - pyrogram.session.session - INFO - Session stopped
+2023-06-12 00:17:31,689 - pyrogram.connection.connection - INFO - Connecting...
+2023-06-12 00:17:36,286 - pyrogram.connection.connection - INFO - Connected! Production DC5 (media) - IPv4
+2023-06-12 00:17:36,286 - pyrogram.session.session - INFO - NetworkTask started
+2023-06-12 00:17:36,535 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2023-06-12 00:17:36,535 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
+2023-06-12 00:17:36,535 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2023-06-12 00:17:36,536 - pyrogram.session.session - INFO - Session started
+2023-06-12 00:17:36,537 - pyrogram.session.session - INFO - PingTask started
+2023-06-12 00:17:36,852 - pyrogram.session.session - INFO - PingTask stopped
+2023-06-12 00:17:36,852 - pyrogram.connection.connection - INFO - Disconnected
+2023-06-12 00:17:36,852 - pyrogram.session.session - INFO - NetworkTask stopped
+2023-06-12 00:17:36,853 - pyrogram.session.session - INFO - Session stopped
+2023-06-12 00:17:36,862 - pyrogram.connection.connection - INFO - Connecting...
+2023-06-12 00:17:36,911 - pyrogram.connection.connection - INFO - Connected! Production DC5 (media) - IPv4
+2023-06-12 00:17:36,912 - pyrogram.session.session - INFO - NetworkTask started
+2023-06-12 00:17:37,163 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2023-06-12 00:17:37,163 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
+2023-06-12 00:17:37,163 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2023-06-12 00:17:37,163 - pyrogram.session.session - INFO - Session started
+2023-06-12 00:17:37,165 - pyrogram.session.session - INFO - PingTask started
+2023-06-12 00:17:37,493 - pyrogram.session.session - INFO - PingTask stopped
+2023-06-12 00:17:37,494 - pyrogram.connection.connection - INFO - Disconnected
+2023-06-12 00:17:37,494 - pyrogram.session.session - INFO - NetworkTask stopped
+2023-06-12 00:17:37,494 - pyrogram.session.session - INFO - Session stopped
+2023-06-12 00:17:43,943 - pyrogram.connection.connection - INFO - Connecting...
+2023-06-12 00:17:43,992 - pyrogram.connection.connection - INFO - Connected! Production DC5 (media) - IPv4
+2023-06-12 00:17:43,992 - pyrogram.session.session - INFO - NetworkTask started
+2023-06-12 00:17:44,258 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2023-06-12 00:17:44,258 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
+2023-06-12 00:17:44,259 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2023-06-12 00:17:44,259 - pyrogram.session.session - INFO - Session started
+2023-06-12 00:17:44,260 - pyrogram.session.session - INFO - PingTask started
+2023-06-12 00:17:44,576 - pyrogram.session.session - INFO - PingTask stopped
+2023-06-12 00:17:44,577 - pyrogram.connection.connection - INFO - Disconnected
+2023-06-12 00:17:44,577 - pyrogram.session.session - INFO - NetworkTask stopped
+2023-06-12 00:17:44,577 - pyrogram.session.session - INFO - Session stopped
+2023-06-12 00:18:12,617 - pyrogram.connection.connection - INFO - Connecting...
+2023-06-12 00:18:12,668 - pyrogram.connection.connection - INFO - Connected! Production DC5 (media) - IPv4
+2023-06-12 00:18:12,668 - pyrogram.session.session - INFO - NetworkTask started
+2023-06-12 00:18:12,920 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2023-06-12 00:18:12,921 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
+2023-06-12 00:18:12,921 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2023-06-12 00:18:12,921 - pyrogram.session.session - INFO - Session started
+2023-06-12 00:18:12,922 - pyrogram.session.session - INFO - PingTask started
+2023-06-12 00:18:13,237 - pyrogram.session.session - INFO - PingTask stopped
+2023-06-12 00:18:13,237 - pyrogram.connection.connection - INFO - Disconnected
+2023-06-12 00:18:13,238 - pyrogram.session.session - INFO - NetworkTask stopped
+2023-06-12 00:18:13,238 - pyrogram.session.session - INFO - Session stopped
+2023-06-12 00:39:57,157 - root - INFO - Stop signal received (SIGINT). Exiting...
+2023-06-12 00:39:57,161 - pyrogram.dispatcher - INFO - Stopped 16 HandlerTasks
+2023-06-12 00:39:57,161 - pyrogram.session.session - INFO - PingTask stopped
+2023-06-12 00:39:57,161 - pyrogram.connection.connection - INFO - Disconnected
+2023-06-12 00:39:57,162 - pyrogram.session.session - INFO - NetworkTask stopped
+2023-06-12 00:39:57,162 - pyrogram.session.session - INFO - Session stopped
+2023-06-12 00:39:59,494 - pyrogram.connection.connection - INFO - Connecting...
+2023-06-12 00:39:59,544 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
+2023-06-12 00:39:59,545 - pyrogram.session.session - INFO - NetworkTask started
+2023-06-12 00:39:59,795 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2023-06-12 00:39:59,796 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
+2023-06-12 00:39:59,796 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2023-06-12 00:39:59,796 - pyrogram.session.session - INFO - Session started
+2023-06-12 00:39:59,799 - pyrogram.session.session - INFO - PingTask started
+2023-06-12 00:40:00,008 - pyrogram.client - WARNING - [stablebot] No plugin loaded from "stablebot/plugins"
+2023-06-12 00:40:00,010 - pyrogram.dispatcher - INFO - Started 16 HandlerTasks
+2023-06-12 00:40:04,818 - pyrogram.dispatcher - ERROR - invalid literal for int() with base 10: 'man'
 Traceback (most recent call last):
   File "C:\Users\user\PycharmProjects\stable-difussion-bot\venv\lib\site-packages\pyrogram\dispatcher.py", line 240, in handler_worker
     await handler.callback(self.client, *args)
-  File "C:\Users\user\PycharmProjects\stable-difussion-bot\stablebot\plugins\base_text_to_image.py", line 12, in base_text_to_image
-    images = StableDiffusion().generate_image(prompt)
-  File "C:\Users\user\PycharmProjects\stable-difussion-bot\stablebot\stable_difussion\api.py", line 33, in generate_image
-    for i in response['images']:
-KeyError: 'images'
-2023-06-11 21:44:09,420 - pyrogram.dispatcher - ERROR - 'images'
-Traceback (most recent call last):
-  File "C:\Users\user\PycharmProjects\stable-difussion-bot\venv\lib\site-packages\pyrogram\dispatcher.py", line 240, in handler_worker
-    await handler.callback(self.client, *args)
-  File "C:\Users\user\PycharmProjects\stable-difussion-bot\stablebot\plugins\base_text_to_image.py", line 12, in base_text_to_image
-    images = StableDiffusion().generate_image(prompt)
-  File "C:\Users\user\PycharmProjects\stable-difussion-bot\stablebot\stable_difussion\api.py", line 33, in generate_image
-    for i in response['images']:
-KeyError: 'images'
-2023-06-11 21:45:01,044 - pyrogram.dispatcher - ERROR - 'images'
-Traceback (most recent call last):
-  File "C:\Users\user\PycharmProjects\stable-difussion-bot\venv\lib\site-packages\pyrogram\dispatcher.py", line 240, in handler_worker
-    await handler.callback(self.client, *args)
-  File "C:\Users\user\PycharmProjects\stable-difussion-bot\stablebot\plugins\base_text_to_image.py", line 12, in base_text_to_image
-    images = StableDiffusion().generate_image(prompt)
-  File "C:\Users\user\PycharmProjects\stable-difussion-bot\stablebot\stable_difussion\api.py", line 33, in generate_image
-    for i in response['images']:
-KeyError: 'images'
-2023-06-11 21:45:04,141 - root - INFO - Stop signal received (SIGINT). Exiting...
-2023-06-11 21:45:04,145 - pyrogram.dispatcher - INFO - Stopped 16 HandlerTasks
-2023-06-11 21:45:04,146 - pyrogram.session.session - INFO - PingTask stopped
-2023-06-11 21:45:04,146 - pyrogram.connection.connection - INFO - Disconnected
-2023-06-11 21:45:04,146 - pyrogram.session.session - INFO - NetworkTask stopped
-2023-06-11 21:45:04,147 - pyrogram.session.session - INFO - Session stopped
-2023-06-11 21:45:06,965 - pyrogram.connection.connection - INFO - Connecting...
-2023-06-11 21:45:07,015 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
-2023-06-11 21:45:07,016 - pyrogram.session.session - INFO - NetworkTask started
-2023-06-11 21:45:07,359 - pyrogram.session.session - INFO - Session initialized: Layer 158
-2023-06-11 21:45:07,360 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
-2023-06-11 21:45:07,360 - pyrogram.session.session - INFO - System: Windows 10 (en)
-2023-06-11 21:45:07,360 - pyrogram.session.session - INFO - Session started
-2023-06-11 21:45:07,363 - pyrogram.session.session - INFO - PingTask started
-2023-06-11 21:45:07,628 - pyrogram.client - WARNING - [stablebot] No plugin loaded from "stablebot/plugins"
-2023-06-11 21:45:07,629 - pyrogram.dispatcher - INFO - Started 16 HandlerTasks
-2023-06-11 21:45:09,443 - pyrogram.dispatcher - ERROR - 'images'
-Traceback (most recent call last):
-  File "C:\Users\user\PycharmProjects\stable-difussion-bot\venv\lib\site-packages\pyrogram\dispatcher.py", line 240, in handler_worker
-    await handler.callback(self.client, *args)
-  File "C:\Users\user\PycharmProjects\stable-difussion-bot\stablebot\plugins\base_text_to_image.py", line 12, in base_text_to_image
-    images = StableDiffusion().generate_image(prompt)
-  File "C:\Users\user\PycharmProjects\stable-difussion-bot\stablebot\stable_difussion\api.py", line 33, in generate_image
-    for i in response['images']:
-KeyError: 'images'
-2023-06-11 21:45:26,676 - root - INFO - Stop signal received (SIGINT). Exiting...
-2023-06-11 21:45:26,680 - pyrogram.dispatcher - INFO - Stopped 16 HandlerTasks
-2023-06-11 21:45:26,680 - pyrogram.session.session - INFO - PingTask stopped
-2023-06-11 21:45:26,681 - pyrogram.connection.connection - INFO - Disconnected
-2023-06-11 21:45:26,681 - pyrogram.session.session - INFO - NetworkTask stopped
-2023-06-11 21:45:26,681 - pyrogram.session.session - INFO - Session stopped
-2023-06-11 21:45:29,084 - pyrogram.connection.connection - INFO - Connecting...
-2023-06-11 21:45:29,135 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
-2023-06-11 21:45:29,136 - pyrogram.session.session - INFO - NetworkTask started
-2023-06-11 21:45:29,430 - pyrogram.session.session - INFO - Session initialized: Layer 158
-2023-06-11 21:45:29,430 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
-2023-06-11 21:45:29,430 - pyrogram.session.session - INFO - System: Windows 10 (en)
-2023-06-11 21:45:29,431 - pyrogram.session.session - INFO - Session started
-2023-06-11 21:45:29,434 - pyrogram.session.session - INFO - PingTask started
-2023-06-11 21:45:29,706 - pyrogram.client - WARNING - [stablebot] No plugin loaded from "stablebot/plugins"
-2023-06-11 21:45:29,706 - pyrogram.dispatcher - INFO - Started 16 HandlerTasks
-2023-06-11 21:45:32,545 - pyrogram.dispatcher - ERROR - 'images'
-Traceback (most recent call last):
-  File "C:\Users\user\PycharmProjects\stable-difussion-bot\venv\lib\site-packages\pyrogram\dispatcher.py", line 240, in handler_worker
-    await handler.callback(self.client, *args)
-  File "C:\Users\user\PycharmProjects\stable-difussion-bot\stablebot\plugins\base_text_to_image.py", line 13, in base_text_to_image
-    images = StableDiffusion().generate_image(prompt)
-  File "C:\Users\user\PycharmProjects\stable-difussion-bot\stablebot\stable_difussion\api.py", line 33, in generate_image
-    for i in response['images']:
-KeyError: 'images'
-2023-06-11 21:46:00,598 - root - INFO - Stop signal received (SIGINT). Exiting...
-2023-06-11 21:46:00,602 - pyrogram.dispatcher - INFO - Stopped 16 HandlerTasks
-2023-06-11 21:46:00,602 - pyrogram.session.session - INFO - PingTask stopped
-2023-06-11 21:46:00,603 - pyrogram.connection.connection - INFO - Disconnected
-2023-06-11 21:46:00,603 - pyrogram.session.session - INFO - NetworkTask stopped
-2023-06-11 21:46:00,604 - pyrogram.session.session - INFO - Session stopped
-2023-06-11 21:46:29,149 - pyrogram.connection.connection - INFO - Connecting...
-2023-06-11 21:46:29,200 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
-2023-06-11 21:46:29,201 - pyrogram.session.session - INFO - NetworkTask started
-2023-06-11 21:46:29,544 - pyrogram.session.session - INFO - Session initialized: Layer 158
-2023-06-11 21:46:29,544 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
-2023-06-11 21:46:29,544 - pyrogram.session.session - INFO - System: Windows 10 (en)
-2023-06-11 21:46:29,545 - pyrogram.session.session - INFO - Session started
-2023-06-11 21:46:29,548 - pyrogram.session.session - INFO - PingTask started
-2023-06-11 21:46:29,861 - pyrogram.client - WARNING - [stablebot] No plugin loaded from "stablebot/plugins"
-2023-06-11 21:46:29,862 - pyrogram.dispatcher - INFO - Started 16 HandlerTasks
-2023-06-11 21:47:11,529 - root - INFO - Stop signal received (SIGINT). Exiting...
-2023-06-11 21:47:11,533 - pyrogram.dispatcher - INFO - Stopped 16 HandlerTasks
-2023-06-11 21:47:11,533 - pyrogram.session.session - INFO - PingTask stopped
-2023-06-11 21:47:11,533 - pyrogram.connection.connection - INFO - Disconnected
-2023-06-11 21:47:11,534 - pyrogram.session.session - INFO - NetworkTask stopped
-2023-06-11 21:47:11,534 - pyrogram.session.session - INFO - Session stopped
-2023-06-11 21:47:14,201 - pyrogram.connection.connection - INFO - Connecting...
-2023-06-11 21:47:14,252 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
-2023-06-11 21:47:14,254 - pyrogram.session.session - INFO - NetworkTask started
-2023-06-11 21:47:14,616 - pyrogram.session.session - INFO - Session initialized: Layer 158
-2023-06-11 21:47:14,617 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
-2023-06-11 21:47:14,617 - pyrogram.session.session - INFO - System: Windows 10 (en)
-2023-06-11 21:47:14,617 - pyrogram.session.session - INFO - Session started
-2023-06-11 21:47:14,620 - pyrogram.session.session - INFO - PingTask started
-2023-06-11 21:47:14,844 - pyrogram.client - WARNING - [stablebot] No plugin loaded from "stablebot/plugins"
-2023-06-11 21:47:14,845 - pyrogram.dispatcher - INFO - Started 16 HandlerTasks
-2023-06-11 21:47:36,950 - root - INFO - Stop signal received (SIGINT). Exiting...
-2023-06-11 21:47:36,954 - pyrogram.dispatcher - INFO - Stopped 16 HandlerTasks
-2023-06-11 21:47:36,954 - pyrogram.session.session - INFO - PingTask stopped
-2023-06-11 21:47:36,954 - pyrogram.connection.connection - INFO - Disconnected
-2023-06-11 21:47:36,955 - pyrogram.session.session - INFO - NetworkTask stopped
-2023-06-11 21:47:36,955 - pyrogram.session.session - INFO - Session stopped
-2023-06-11 21:47:39,268 - pyrogram.connection.connection - INFO - Connecting...
-2023-06-11 21:47:39,318 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
-2023-06-11 21:47:39,319 - pyrogram.session.session - INFO - NetworkTask started
-2023-06-11 21:47:39,599 - pyrogram.session.session - INFO - Session initialized: Layer 158
-2023-06-11 21:47:39,600 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
-2023-06-11 21:47:39,600 - pyrogram.session.session - INFO - System: Windows 10 (en)
-2023-06-11 21:47:39,600 - pyrogram.session.session - INFO - Session started
-2023-06-11 21:47:39,603 - pyrogram.session.session - INFO - PingTask started
-2023-06-11 21:47:39,844 - pyrogram.client - WARNING - [stablebot] No plugin loaded from "stablebot/plugins"
-2023-06-11 21:47:39,844 - pyrogram.dispatcher - INFO - Started 16 HandlerTasks
-2023-06-11 21:49:06,536 - root - INFO - Stop signal received (SIGINT). Exiting...
-2023-06-11 21:49:06,540 - pyrogram.dispatcher - INFO - Stopped 16 HandlerTasks
-2023-06-11 21:49:06,540 - pyrogram.session.session - INFO - PingTask stopped
-2023-06-11 21:49:06,541 - pyrogram.connection.connection - INFO - Disconnected
-2023-06-11 21:49:06,541 - pyrogram.session.session - INFO - NetworkTask stopped
-2023-06-11 21:49:06,541 - pyrogram.session.session - INFO - Session stopped
-2023-06-11 21:49:09,080 - pyrogram.connection.connection - INFO - Connecting...
-2023-06-11 21:49:09,130 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
-2023-06-11 21:49:09,131 - pyrogram.session.session - INFO - NetworkTask started
-2023-06-11 21:49:09,403 - pyrogram.session.session - INFO - Session initialized: Layer 158
-2023-06-11 21:49:09,404 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
-2023-06-11 21:49:09,404 - pyrogram.session.session - INFO - System: Windows 10 (en)
-2023-06-11 21:49:09,404 - pyrogram.session.session - INFO - Session started
-2023-06-11 21:49:09,407 - pyrogram.session.session - INFO - PingTask started
-2023-06-11 21:49:09,654 - pyrogram.client - WARNING - [stablebot] No plugin loaded from "stablebot/plugins"
-2023-06-11 21:49:09,655 - pyrogram.dispatcher - INFO - Started 16 HandlerTasks
-2023-06-11 21:52:04,635 - pyrogram.connection.connection - INFO - Connecting...
-2023-06-11 21:52:04,687 - pyrogram.connection.connection - INFO - Connected! Production DC5 (media) - IPv4
-2023-06-11 21:52:04,688 - pyrogram.session.session - INFO - NetworkTask started
-2023-06-11 21:52:04,964 - pyrogram.session.session - INFO - Session initialized: Layer 158
-2023-06-11 21:52:04,965 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
-2023-06-11 21:52:04,965 - pyrogram.session.session - INFO - System: Windows 10 (en)
-2023-06-11 21:52:04,965 - pyrogram.session.session - INFO - Session started
-2023-06-11 21:52:04,966 - pyrogram.session.session - INFO - PingTask started
-2023-06-11 21:52:05,259 - pyrogram.session.session - INFO - PingTask stopped
-2023-06-11 21:52:05,260 - pyrogram.connection.connection - INFO - Disconnected
-2023-06-11 21:52:05,260 - pyrogram.session.session - INFO - NetworkTask stopped
-2023-06-11 21:52:05,260 - pyrogram.session.session - INFO - Session stopped
-2023-06-11 21:52:50,290 - root - INFO - Stop signal received (SIGINT). Exiting...
-2023-06-11 21:52:50,296 - pyrogram.dispatcher - INFO - Stopped 16 HandlerTasks
-2023-06-11 21:52:50,297 - pyrogram.session.session - INFO - PingTask stopped
-2023-06-11 21:52:50,297 - pyrogram.connection.connection - INFO - Disconnected
-2023-06-11 21:52:50,297 - pyrogram.session.session - INFO - NetworkTask stopped
-2023-06-11 21:52:50,297 - pyrogram.session.session - INFO - Session stopped
-2023-06-11 21:52:53,198 - pyrogram.connection.connection - INFO - Connecting...
-2023-06-11 21:52:53,248 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
-2023-06-11 21:52:53,250 - pyrogram.session.session - INFO - NetworkTask started
-2023-06-11 21:52:53,515 - pyrogram.session.session - INFO - Session initialized: Layer 158
-2023-06-11 21:52:53,515 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
-2023-06-11 21:52:53,515 - pyrogram.session.session - INFO - System: Windows 10 (en)
-2023-06-11 21:52:53,515 - pyrogram.session.session - INFO - Session started
-2023-06-11 21:52:53,518 - pyrogram.session.session - INFO - PingTask started
-2023-06-11 21:52:53,768 - pyrogram.client - WARNING - [stablebot] No plugin loaded from "stablebot/plugins"
-2023-06-11 21:52:53,769 - pyrogram.dispatcher - INFO - Started 16 HandlerTasks
-2023-06-11 21:52:56,022 - pyrogram.connection.connection - INFO - Connecting...
-2023-06-11 21:52:56,073 - pyrogram.connection.connection - INFO - Connected! Production DC5 (media) - IPv4
-2023-06-11 21:52:56,073 - pyrogram.session.session - INFO - NetworkTask started
-2023-06-11 21:52:56,334 - pyrogram.session.session - INFO - Session initialized: Layer 158
-2023-06-11 21:52:56,335 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
-2023-06-11 21:52:56,335 - pyrogram.session.session - INFO - System: Windows 10 (en)
-2023-06-11 21:52:56,335 - pyrogram.session.session - INFO - Session started
-2023-06-11 21:52:56,336 - pyrogram.session.session - INFO - PingTask started
-2023-06-11 21:52:56,642 - pyrogram.session.session - INFO - PingTask stopped
-2023-06-11 21:52:56,642 - pyrogram.connection.connection - INFO - Disconnected
-2023-06-11 21:52:56,642 - pyrogram.session.session - INFO - NetworkTask stopped
-2023-06-11 21:52:56,643 - pyrogram.session.session - INFO - Session stopped
-2023-06-11 21:53:13,198 - root - INFO - Stop signal received (SIGINT). Exiting...
-2023-06-11 21:53:13,203 - pyrogram.dispatcher - INFO - Stopped 16 HandlerTasks
-2023-06-11 21:53:13,203 - pyrogram.session.session - INFO - PingTask stopped
-2023-06-11 21:53:13,204 - pyrogram.connection.connection - INFO - Disconnected
-2023-06-11 21:53:13,204 - pyrogram.session.session - INFO - NetworkTask stopped
-2023-06-11 21:53:13,204 - pyrogram.session.session - INFO - Session stopped
-2023-06-11 21:53:15,821 - pyrogram.connection.connection - INFO - Connecting...
-2023-06-11 21:53:15,871 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
-2023-06-11 21:53:15,872 - pyrogram.session.session - INFO - NetworkTask started
-2023-06-11 21:53:16,132 - pyrogram.session.session - INFO - Session initialized: Layer 158
-2023-06-11 21:53:16,132 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
-2023-06-11 21:53:16,132 - pyrogram.session.session - INFO - System: Windows 10 (en)
-2023-06-11 21:53:16,132 - pyrogram.session.session - INFO - Session started
-2023-06-11 21:53:16,136 - pyrogram.session.session - INFO - PingTask started
-2023-06-11 21:53:16,398 - pyrogram.client - WARNING - [stablebot] No plugin loaded from "stablebot/plugins"
-2023-06-11 21:53:16,398 - pyrogram.dispatcher - INFO - Started 16 HandlerTasks
-2023-06-11 21:53:21,746 - pyrogram.connection.connection - INFO - Connecting...
-2023-06-11 21:53:21,796 - pyrogram.connection.connection - INFO - Connected! Production DC5 (media) - IPv4
-2023-06-11 21:53:21,797 - pyrogram.session.session - INFO - NetworkTask started
-2023-06-11 21:53:22,093 - pyrogram.session.session - INFO - Session initialized: Layer 158
-2023-06-11 21:53:22,094 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
-2023-06-11 21:53:22,094 - pyrogram.session.session - INFO - System: Windows 10 (en)
-2023-06-11 21:53:22,094 - pyrogram.session.session - INFO - Session started
-2023-06-11 21:53:22,095 - pyrogram.session.session - INFO - PingTask started
-2023-06-11 21:53:22,507 - pyrogram.session.session - INFO - PingTask stopped
-2023-06-11 21:53:22,507 - pyrogram.connection.connection - INFO - Disconnected
-2023-06-11 21:53:22,508 - pyrogram.session.session - INFO - NetworkTask stopped
-2023-06-11 21:53:22,508 - pyrogram.session.session - INFO - Session stopped
-2023-06-11 21:53:37,208 - pyrogram.connection.connection - INFO - Connecting...
-2023-06-11 21:53:37,258 - pyrogram.connection.connection - INFO - Connected! Production DC5 (media) - IPv4
-2023-06-11 21:53:37,259 - pyrogram.session.session - INFO - NetworkTask started
-2023-06-11 21:53:37,564 - pyrogram.session.session - INFO - Session initialized: Layer 158
-2023-06-11 21:53:37,565 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
-2023-06-11 21:53:37,565 - pyrogram.session.session - INFO - System: Windows 10 (en)
-2023-06-11 21:53:37,565 - pyrogram.session.session - INFO - Session started
-2023-06-11 21:53:37,566 - pyrogram.session.session - INFO - PingTask started
-2023-06-11 21:53:37,837 - pyrogram.session.session - INFO - PingTask stopped
-2023-06-11 21:53:37,837 - pyrogram.connection.connection - INFO - Disconnected
-2023-06-11 21:53:37,837 - pyrogram.session.session - INFO - NetworkTask stopped
-2023-06-11 21:53:37,838 - pyrogram.session.session - INFO - Session stopped
-2023-06-11 21:54:05,805 - pyrogram.connection.connection - INFO - Connecting...
-2023-06-11 21:54:05,855 - pyrogram.connection.connection - INFO - Connected! Production DC5 (media) - IPv4
-2023-06-11 21:54:05,856 - pyrogram.session.session - INFO - NetworkTask started
-2023-06-11 21:54:06,132 - pyrogram.session.session - INFO - Session initialized: Layer 158
-2023-06-11 21:54:06,132 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
-2023-06-11 21:54:06,132 - pyrogram.session.session - INFO - System: Windows 10 (en)
-2023-06-11 21:54:06,133 - pyrogram.session.session - INFO - Session started
-2023-06-11 21:54:06,133 - pyrogram.session.session - INFO - PingTask started
-2023-06-11 21:54:06,494 - pyrogram.session.session - INFO - PingTask stopped
-2023-06-11 21:54:06,494 - pyrogram.connection.connection - INFO - Disconnected
-2023-06-11 21:54:06,495 - pyrogram.session.session - INFO - NetworkTask stopped
-2023-06-11 21:54:06,495 - pyrogram.session.session - INFO - Session stopped
-2023-06-11 21:54:59,514 - pyrogram.connection.connection - INFO - Connecting...
-2023-06-11 21:54:59,568 - pyrogram.connection.connection - INFO - Connected! Production DC5 (media) - IPv4
-2023-06-11 21:54:59,569 - pyrogram.session.session - INFO - NetworkTask started
-2023-06-11 21:54:59,826 - pyrogram.session.session - INFO - Session initialized: Layer 158
-2023-06-11 21:54:59,826 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
-2023-06-11 21:54:59,826 - pyrogram.session.session - INFO - System: Windows 10 (en)
-2023-06-11 21:54:59,827 - pyrogram.session.session - INFO - Session started
-2023-06-11 21:54:59,828 - pyrogram.session.session - INFO - PingTask started
-2023-06-11 21:55:00,146 - pyrogram.session.session - INFO - PingTask stopped
-2023-06-11 21:55:00,146 - pyrogram.connection.connection - INFO - Disconnected
-2023-06-11 21:55:00,147 - pyrogram.session.session - INFO - NetworkTask stopped
-2023-06-11 21:55:00,147 - pyrogram.session.session - INFO - Session stopped
-2023-06-11 21:55:52,230 - pyrogram.connection.connection - INFO - Connecting...
-2023-06-11 21:55:52,231 - pyrogram.session.session - INFO - NetworkTask stopped
-2023-06-11 21:55:52,232 - pyrogram.session.session - INFO - PingTask stopped
-2023-06-11 21:55:52,232 - pyrogram.connection.connection - INFO - Disconnected
-2023-06-11 21:55:52,232 - pyrogram.session.session - INFO - Session stopped
-2023-06-11 21:55:52,233 - pyrogram.connection.connection - INFO - Connecting...
-2023-06-11 21:55:52,281 - pyrogram.connection.connection - INFO - Connected! Production DC5 (media) - IPv4
-2023-06-11 21:55:52,282 - pyrogram.session.session - INFO - NetworkTask started
-2023-06-11 21:55:52,282 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
-2023-06-11 21:55:52,283 - pyrogram.session.session - INFO - NetworkTask started
-2023-06-11 21:55:52,504 - pyrogram.session.session - INFO - Session initialized: Layer 158
-2023-06-11 21:55:52,505 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
-2023-06-11 21:55:52,505 - pyrogram.session.session - INFO - System: Windows 10 (en)
-2023-06-11 21:55:52,506 - pyrogram.session.session - INFO - Session started
-2023-06-11 21:55:52,506 - pyrogram.session.session - INFO - PingTask started
-2023-06-11 21:55:52,554 - pyrogram.session.session - INFO - Session initialized: Layer 158
-2023-06-11 21:55:52,555 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
-2023-06-11 21:55:52,555 - pyrogram.session.session - INFO - System: Windows 10 (en)
-2023-06-11 21:55:52,555 - pyrogram.session.session - INFO - Session started
-2023-06-11 21:55:52,556 - pyrogram.session.session - INFO - PingTask started
-2023-06-11 21:55:52,896 - pyrogram.session.session - INFO - PingTask stopped
-2023-06-11 21:55:52,896 - pyrogram.connection.connection - INFO - Disconnected
-2023-06-11 21:55:52,897 - pyrogram.session.session - INFO - NetworkTask stopped
-2023-06-11 21:55:52,897 - pyrogram.session.session - INFO - Session stopped
-2023-06-11 21:56:30,650 - root - INFO - Stop signal received (SIGINT). Exiting...
-2023-06-11 21:56:30,663 - pyrogram.dispatcher - INFO - Stopped 16 HandlerTasks
-2023-06-11 21:56:30,663 - pyrogram.session.session - INFO - PingTask stopped
-2023-06-11 21:56:30,664 - pyrogram.connection.connection - INFO - Disconnected
-2023-06-11 21:56:30,664 - pyrogram.session.session - INFO - NetworkTask stopped
-2023-06-11 21:56:30,664 - pyrogram.session.session - INFO - Session stopped
-2023-06-11 21:56:46,283 - pyrogram.connection.connection - INFO - Connecting...
-2023-06-11 21:56:46,334 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
-2023-06-11 21:56:46,335 - pyrogram.session.session - INFO - NetworkTask started
-2023-06-11 21:56:46,595 - pyrogram.session.session - INFO - Session initialized: Layer 158
-2023-06-11 21:56:46,595 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
-2023-06-11 21:56:46,596 - pyrogram.session.session - INFO - System: Windows 10 (en)
-2023-06-11 21:56:46,596 - pyrogram.session.session - INFO - Session started
-2023-06-11 21:56:46,599 - pyrogram.session.session - INFO - PingTask started
-2023-06-11 21:56:46,848 - pyrogram.client - WARNING - [stablebot] No plugin loaded from "stablebot/plugins"
-2023-06-11 21:56:46,849 - pyrogram.dispatcher - INFO - Started 16 HandlerTasks
-2023-06-11 21:57:04,933 - pyrogram.connection.connection - INFO - Connecting...
-2023-06-11 21:57:04,934 - pyrogram.session.session - INFO - NetworkTask stopped
-2023-06-11 21:57:04,935 - pyrogram.session.session - INFO - PingTask stopped
-2023-06-11 21:57:04,935 - pyrogram.connection.connection - INFO - Disconnected
-2023-06-11 21:57:04,935 - pyrogram.session.session - INFO - Session stopped
-2023-06-11 21:57:04,936 - pyrogram.connection.connection - INFO - Connecting...
-2023-06-11 21:57:04,984 - pyrogram.connection.connection - INFO - Connected! Production DC5 (media) - IPv4
-2023-06-11 21:57:04,984 - pyrogram.session.session - INFO - NetworkTask started
-2023-06-11 21:57:04,985 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
-2023-06-11 21:57:04,986 - pyrogram.session.session - INFO - NetworkTask started
-2023-06-11 21:57:05,217 - pyrogram.session.session - INFO - Session initialized: Layer 158
-2023-06-11 21:57:05,218 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
-2023-06-11 21:57:05,218 - pyrogram.session.session - INFO - System: Windows 10 (en)
-2023-06-11 21:57:05,218 - pyrogram.session.session - INFO - Session started
-2023-06-11 21:57:05,218 - pyrogram.session.session - INFO - PingTask started
-2023-06-11 21:57:05,280 - pyrogram.session.session - INFO - Session initialized: Layer 158
-2023-06-11 21:57:05,280 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
-2023-06-11 21:57:05,281 - pyrogram.session.session - INFO - System: Windows 10 (en)
-2023-06-11 21:57:05,281 - pyrogram.session.session - INFO - Session started
-2023-06-11 21:57:05,282 - pyrogram.session.session - INFO - PingTask started
-2023-06-11 21:57:05,601 - pyrogram.session.session - INFO - PingTask stopped
-2023-06-11 21:57:05,601 - pyrogram.connection.connection - INFO - Disconnected
-2023-06-11 21:57:05,601 - pyrogram.session.session - INFO - NetworkTask stopped
-2023-06-11 21:57:05,602 - pyrogram.session.session - INFO - Session stopped
-2023-06-11 21:57:48,440 - pyrogram.connection.connection - INFO - Connecting...
-2023-06-11 21:57:48,441 - pyrogram.session.session - INFO - NetworkTask stopped
-2023-06-11 21:57:48,441 - pyrogram.session.session - INFO - PingTask stopped
-2023-06-11 21:57:48,441 - pyrogram.connection.connection - INFO - Disconnected
-2023-06-11 21:57:48,442 - pyrogram.session.session - INFO - Session stopped
-2023-06-11 21:57:48,442 - pyrogram.connection.connection - INFO - Connecting...
-2023-06-11 21:57:48,490 - pyrogram.connection.connection - INFO - Connected! Production DC5 (media) - IPv4
-2023-06-11 21:57:48,491 - pyrogram.session.session - INFO - NetworkTask started
-2023-06-11 21:57:48,491 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
-2023-06-11 21:57:48,491 - pyrogram.session.session - INFO - NetworkTask started
-2023-06-11 21:57:48,796 - pyrogram.session.session - INFO - Session initialized: Layer 158
-2023-06-11 21:57:48,796 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
-2023-06-11 21:57:48,797 - pyrogram.session.session - INFO - System: Windows 10 (en)
-2023-06-11 21:57:48,797 - pyrogram.session.session - INFO - Session started
-2023-06-11 21:57:48,797 - pyrogram.session.session - INFO - PingTask started
-2023-06-11 21:57:48,851 - pyrogram.session.session - INFO - Session initialized: Layer 158
-2023-06-11 21:57:48,851 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
-2023-06-11 21:57:48,851 - pyrogram.session.session - INFO - System: Windows 10 (en)
-2023-06-11 21:57:48,851 - pyrogram.session.session - INFO - Session started
-2023-06-11 21:57:48,852 - pyrogram.session.session - INFO - PingTask started
-2023-06-11 21:57:49,248 - pyrogram.session.session - INFO - PingTask stopped
-2023-06-11 21:57:49,249 - pyrogram.connection.connection - INFO - Disconnected
-2023-06-11 21:57:49,249 - pyrogram.session.session - INFO - NetworkTask stopped
-2023-06-11 21:57:49,249 - pyrogram.session.session - INFO - Session stopped
-2023-06-11 21:58:21,147 - pyrogram.connection.connection - INFO - Connecting...
-2023-06-11 21:58:21,147 - pyrogram.session.session - INFO - NetworkTask stopped
-2023-06-11 21:58:21,148 - pyrogram.session.session - INFO - PingTask stopped
-2023-06-11 21:58:21,148 - pyrogram.connection.connection - INFO - Disconnected
-2023-06-11 21:58:21,148 - pyrogram.session.session - INFO - Session stopped
-2023-06-11 21:58:21,149 - pyrogram.connection.connection - INFO - Connecting...
-2023-06-11 21:58:21,197 - pyrogram.connection.connection - INFO - Connected! Production DC5 (media) - IPv4
-2023-06-11 21:58:21,197 - pyrogram.session.session - INFO - NetworkTask started
-2023-06-11 21:58:21,198 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
-2023-06-11 21:58:21,198 - pyrogram.session.session - INFO - NetworkTask started
-2023-06-11 21:58:21,427 - pyrogram.session.session - INFO - Session initialized: Layer 158
-2023-06-11 21:58:21,428 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
-2023-06-11 21:58:21,428 - pyrogram.session.session - INFO - System: Windows 10 (en)
-2023-06-11 21:58:21,428 - pyrogram.session.session - INFO - Session started
-2023-06-11 21:58:21,428 - pyrogram.session.session - INFO - PingTask started
-2023-06-11 21:58:21,468 - pyrogram.session.session - INFO - Session initialized: Layer 158
-2023-06-11 21:58:21,468 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
-2023-06-11 21:58:21,468 - pyrogram.session.session - INFO - System: Windows 10 (en)
-2023-06-11 21:58:21,468 - pyrogram.session.session - INFO - Session started
-2023-06-11 21:58:21,469 - pyrogram.session.session - INFO - PingTask started
-2023-06-11 21:58:21,787 - pyrogram.session.session - INFO - PingTask stopped
-2023-06-11 21:58:21,787 - pyrogram.connection.connection - INFO - Disconnected
-2023-06-11 21:58:21,787 - pyrogram.session.session - INFO - NetworkTask stopped
-2023-06-11 21:58:21,788 - pyrogram.session.session - INFO - Session stopped
-2023-06-11 21:58:55,550 - pyrogram.connection.connection - INFO - Connecting...
-2023-06-11 21:58:55,551 - pyrogram.session.session - INFO - NetworkTask stopped
-2023-06-11 21:58:55,552 - pyrogram.session.session - INFO - PingTask stopped
-2023-06-11 21:58:55,552 - pyrogram.connection.connection - INFO - Disconnected
-2023-06-11 21:58:55,552 - pyrogram.session.session - INFO - Session stopped
-2023-06-11 21:58:55,552 - pyrogram.connection.connection - INFO - Connecting...
-2023-06-11 21:58:55,601 - pyrogram.connection.connection - INFO - Connected! Production DC5 (media) - IPv4
-2023-06-11 21:58:55,602 - pyrogram.session.session - INFO - NetworkTask started
-2023-06-11 21:58:55,602 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
-2023-06-11 21:58:55,603 - pyrogram.session.session - INFO - NetworkTask started
-2023-06-11 21:58:55,838 - pyrogram.session.session - INFO - Session initialized: Layer 158
-2023-06-11 21:58:55,838 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
-2023-06-11 21:58:55,838 - pyrogram.session.session - INFO - System: Windows 10 (en)
-2023-06-11 21:58:55,839 - pyrogram.session.session - INFO - Session started
-2023-06-11 21:58:55,839 - pyrogram.session.session - INFO - PingTask started
-2023-06-11 21:58:55,906 - pyrogram.session.session - INFO - Session initialized: Layer 158
-2023-06-11 21:58:55,906 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
-2023-06-11 21:58:55,907 - pyrogram.session.session - INFO - System: Windows 10 (en)
-2023-06-11 21:58:55,907 - pyrogram.session.session - INFO - Session started
-2023-06-11 21:58:55,908 - pyrogram.session.session - INFO - PingTask started
-2023-06-11 21:58:56,266 - pyrogram.session.session - INFO - PingTask stopped
-2023-06-11 21:58:56,266 - pyrogram.connection.connection - INFO - Disconnected
-2023-06-11 21:58:56,266 - pyrogram.session.session - INFO - NetworkTask stopped
-2023-06-11 21:58:56,267 - pyrogram.session.session - INFO - Session stopped
-2023-06-11 22:23:39,539 - root - INFO - Stop signal received (SIGINT). Exiting...
-2023-06-11 22:23:39,544 - pyrogram.dispatcher - INFO - Stopped 16 HandlerTasks
-2023-06-11 22:23:39,544 - pyrogram.session.session - INFO - PingTask stopped
-2023-06-11 22:23:39,545 - pyrogram.connection.connection - INFO - Disconnected
-2023-06-11 22:23:39,545 - pyrogram.session.session - INFO - NetworkTask stopped
-2023-06-11 22:23:39,545 - pyrogram.session.session - INFO - Session stopped
-2023-06-11 22:23:42,168 - pyrogram.connection.connection - INFO - Connecting...
-2023-06-11 22:23:42,219 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
-2023-06-11 22:23:42,220 - pyrogram.session.session - INFO - NetworkTask started
-2023-06-11 22:23:42,506 - pyrogram.session.session - INFO - Session initialized: Layer 158
-2023-06-11 22:23:42,507 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
-2023-06-11 22:23:42,507 - pyrogram.session.session - INFO - System: Windows 10 (en)
-2023-06-11 22:23:42,507 - pyrogram.session.session - INFO - Session started
-2023-06-11 22:23:42,510 - pyrogram.session.session - INFO - PingTask started
-2023-06-11 22:23:42,806 - pyrogram.client - WARNING - [stablebot] No plugin loaded from "stablebot/plugins"
-2023-06-11 22:23:42,806 - pyrogram.dispatcher - INFO - Started 16 HandlerTasks
-2023-06-11 22:24:03,051 - root - INFO - Stop signal received (SIGINT). Exiting...
-2023-06-11 22:24:03,055 - pyrogram.dispatcher - INFO - Stopped 16 HandlerTasks
-2023-06-11 22:24:03,056 - pyrogram.session.session - INFO - PingTask stopped
-2023-06-11 22:24:03,056 - pyrogram.connection.connection - INFO - Disconnected
-2023-06-11 22:24:03,056 - pyrogram.session.session - INFO - NetworkTask stopped
-2023-06-11 22:24:03,057 - pyrogram.session.session - INFO - Session stopped
-2023-06-11 22:24:05,281 - pyrogram.connection.connection - INFO - Connecting...
-2023-06-11 22:24:05,331 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
-2023-06-11 22:24:05,332 - pyrogram.session.session - INFO - NetworkTask started
-2023-06-11 22:24:05,583 - pyrogram.session.session - INFO - Session initialized: Layer 158
-2023-06-11 22:24:05,584 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
-2023-06-11 22:24:05,584 - pyrogram.session.session - INFO - System: Windows 10 (en)
-2023-06-11 22:24:05,584 - pyrogram.session.session - INFO - Session started
-2023-06-11 22:24:05,588 - pyrogram.session.session - INFO - PingTask started
-2023-06-11 22:24:05,800 - pyrogram.client - WARNING - [stablebot] No plugin loaded from "stablebot/plugins"
-2023-06-11 22:24:05,801 - pyrogram.dispatcher - INFO - Started 16 HandlerTasks
-2023-06-11 22:25:55,357 - root - INFO - Stop signal received (SIGINT). Exiting...
-2023-06-11 22:25:55,362 - pyrogram.dispatcher - INFO - Stopped 16 HandlerTasks
-2023-06-11 22:25:55,362 - pyrogram.session.session - INFO - PingTask stopped
-2023-06-11 22:25:55,363 - pyrogram.connection.connection - INFO - Disconnected
-2023-06-11 22:25:55,363 - pyrogram.session.session - INFO - NetworkTask stopped
-2023-06-11 22:25:55,363 - pyrogram.session.session - INFO - Session stopped
-2023-06-11 22:25:57,598 - pyrogram.connection.connection - INFO - Connecting...
-2023-06-11 22:25:57,649 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
-2023-06-11 22:25:57,650 - pyrogram.session.session - INFO - NetworkTask started
-2023-06-11 22:25:58,050 - pyrogram.session.session - INFO - Session initialized: Layer 158
-2023-06-11 22:25:58,050 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
-2023-06-11 22:25:58,050 - pyrogram.session.session - INFO - System: Windows 10 (en)
-2023-06-11 22:25:58,051 - pyrogram.session.session - INFO - Session started
-2023-06-11 22:25:58,054 - pyrogram.session.session - INFO - PingTask started
-2023-06-11 22:25:58,568 - pyrogram.client - WARNING - [stablebot] No plugin loaded from "stablebot/plugins"
-2023-06-11 22:25:58,568 - pyrogram.dispatcher - INFO - Started 16 HandlerTasks
-2023-06-11 22:31:25,573 - root - INFO - Stop signal received (SIGINT). Exiting...
-2023-06-11 22:31:25,577 - pyrogram.dispatcher - INFO - Stopped 16 HandlerTasks
-2023-06-11 22:31:25,578 - pyrogram.session.session - INFO - PingTask stopped
-2023-06-11 22:31:25,578 - pyrogram.connection.connection - INFO - Disconnected
-2023-06-11 22:31:25,578 - pyrogram.session.session - INFO - NetworkTask stopped
-2023-06-11 22:31:25,579 - pyrogram.session.session - INFO - Session stopped
-2023-06-11 22:31:27,996 - pyrogram.connection.connection - INFO - Connecting...
-2023-06-11 22:31:28,046 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
-2023-06-11 22:31:28,047 - pyrogram.session.session - INFO - NetworkTask started
-2023-06-11 22:31:28,314 - pyrogram.session.session - INFO - Session initialized: Layer 158
-2023-06-11 22:31:28,315 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
-2023-06-11 22:31:28,315 - pyrogram.session.session - INFO - System: Windows 10 (en)
-2023-06-11 22:31:28,316 - pyrogram.session.session - INFO - Session started
-2023-06-11 22:31:28,319 - pyrogram.session.session - INFO - PingTask started
-2023-06-11 22:31:28,572 - pyrogram.client - WARNING - [stablebot] No plugin loaded from "stablebot/plugins"
-2023-06-11 22:31:28,573 - pyrogram.dispatcher - INFO - Started 16 HandlerTasks
-2023-06-11 22:42:57,550 - root - INFO - Stop signal received (SIGINT). Exiting...
-2023-06-11 22:42:57,554 - pyrogram.dispatcher - INFO - Stopped 16 HandlerTasks
-2023-06-11 22:42:57,554 - pyrogram.session.session - INFO - PingTask stopped
-2023-06-11 22:42:57,555 - pyrogram.connection.connection - INFO - Disconnected
-2023-06-11 22:42:57,555 - pyrogram.session.session - INFO - NetworkTask stopped
-2023-06-11 22:42:57,555 - pyrogram.session.session - INFO - Session stopped
-2023-06-11 22:42:59,743 - pyrogram.connection.connection - INFO - Connecting...
-2023-06-11 22:42:59,803 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
-2023-06-11 22:42:59,804 - pyrogram.session.session - INFO - NetworkTask started
-2023-06-11 22:43:00,079 - pyrogram.session.session - INFO - Session initialized: Layer 158
-2023-06-11 22:43:00,079 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
-2023-06-11 22:43:00,080 - pyrogram.session.session - INFO - System: Windows 10 (en)
-2023-06-11 22:43:00,080 - pyrogram.session.session - INFO - Session started
-2023-06-11 22:43:00,083 - pyrogram.session.session - INFO - PingTask started
-2023-06-11 22:43:00,311 - pyrogram.client - WARNING - [stablebot] No plugin loaded from "stablebot/plugins"
-2023-06-11 22:43:00,313 - pyrogram.dispatcher - INFO - Started 16 HandlerTasks
-2023-06-11 22:45:13,307 - root - INFO - Stop signal received (SIGINT). Exiting...
-2023-06-11 22:45:13,312 - pyrogram.dispatcher - INFO - Stopped 16 HandlerTasks
-2023-06-11 22:45:13,312 - pyrogram.session.session - INFO - PingTask stopped
-2023-06-11 22:45:13,313 - pyrogram.connection.connection - INFO - Disconnected
-2023-06-11 22:45:13,313 - pyrogram.session.session - INFO - NetworkTask stopped
-2023-06-11 22:45:13,313 - pyrogram.session.session - INFO - Session stopped
-2023-06-11 22:45:15,928 - pyrogram.connection.connection - INFO - Connecting...
-2023-06-11 22:45:15,979 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
-2023-06-11 22:45:15,980 - pyrogram.session.session - INFO - NetworkTask started
-2023-06-11 22:45:16,317 - pyrogram.session.session - INFO - Session initialized: Layer 158
-2023-06-11 22:45:16,317 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
-2023-06-11 22:45:16,317 - pyrogram.session.session - INFO - System: Windows 10 (en)
-2023-06-11 22:45:16,317 - pyrogram.session.session - INFO - Session started
-2023-06-11 22:45:16,320 - pyrogram.session.session - INFO - PingTask started
-2023-06-11 22:45:16,947 - pyrogram.client - WARNING - [stablebot] No plugin loaded from "stablebot/plugins"
-2023-06-11 22:45:16,948 - pyrogram.dispatcher - INFO - Started 16 HandlerTasks
-2023-06-11 22:46:39,490 - root - INFO - Stop signal received (SIGINT). Exiting...
-2023-06-11 22:46:39,494 - pyrogram.dispatcher - INFO - Stopped 16 HandlerTasks
-2023-06-11 22:46:39,495 - pyrogram.session.session - INFO - PingTask stopped
-2023-06-11 22:46:39,495 - pyrogram.connection.connection - INFO - Disconnected
-2023-06-11 22:46:39,495 - pyrogram.session.session - INFO - NetworkTask stopped
-2023-06-11 22:46:39,495 - pyrogram.session.session - INFO - Session stopped
-2023-06-11 22:46:41,602 - pyrogram.connection.connection - INFO - Connecting...
-2023-06-11 22:46:41,653 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
-2023-06-11 22:46:41,654 - pyrogram.session.session - INFO - NetworkTask started
-2023-06-11 22:46:41,908 - pyrogram.session.session - INFO - Session initialized: Layer 158
-2023-06-11 22:46:41,908 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
-2023-06-11 22:46:41,909 - pyrogram.session.session - INFO - System: Windows 10 (en)
-2023-06-11 22:46:41,909 - pyrogram.session.session - INFO - Session started
-2023-06-11 22:46:41,912 - pyrogram.session.session - INFO - PingTask started
-2023-06-11 22:46:42,131 - pyrogram.client - WARNING - [stablebot] No plugin loaded from "stablebot/plugins"
-2023-06-11 22:46:42,132 - pyrogram.dispatcher - INFO - Started 16 HandlerTasks
-2023-06-11 22:47:11,498 - root - INFO - Stop signal received (SIGINT). Exiting...
-2023-06-11 22:47:11,502 - pyrogram.dispatcher - INFO - Stopped 16 HandlerTasks
-2023-06-11 22:47:11,502 - pyrogram.session.session - INFO - PingTask stopped
-2023-06-11 22:47:11,503 - pyrogram.connection.connection - INFO - Disconnected
-2023-06-11 22:47:11,503 - pyrogram.session.session - INFO - NetworkTask stopped
-2023-06-11 22:47:11,503 - pyrogram.session.session - INFO - Session stopped
-2023-06-11 22:47:13,779 - pyrogram.connection.connection - INFO - Connecting...
-2023-06-11 22:47:13,830 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
-2023-06-11 22:47:13,832 - pyrogram.session.session - INFO - NetworkTask started
-2023-06-11 22:47:14,094 - pyrogram.session.session - INFO - Session initialized: Layer 158
-2023-06-11 22:47:14,094 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
-2023-06-11 22:47:14,095 - pyrogram.session.session - INFO - System: Windows 10 (en)
-2023-06-11 22:47:14,095 - pyrogram.session.session - INFO - Session started
-2023-06-11 22:47:14,099 - pyrogram.session.session - INFO - PingTask started
-2023-06-11 22:47:14,326 - pyrogram.client - WARNING - [stablebot] No plugin loaded from "stablebot/plugins"
-2023-06-11 22:47:14,327 - pyrogram.dispatcher - INFO - Started 16 HandlerTasks
-2023-06-11 22:48:12,666 - root - INFO - Stop signal received (SIGINT). Exiting...
-2023-06-11 22:48:12,670 - pyrogram.dispatcher - INFO - Stopped 16 HandlerTasks
-2023-06-11 22:48:12,670 - pyrogram.session.session - INFO - PingTask stopped
-2023-06-11 22:48:12,671 - pyrogram.connection.connection - INFO - Disconnected
-2023-06-11 22:48:12,671 - pyrogram.session.session - INFO - NetworkTask stopped
-2023-06-11 22:48:12,671 - pyrogram.session.session - INFO - Session stopped
-2023-06-11 22:48:14,767 - pyrogram.connection.connection - INFO - Connecting...
-2023-06-11 22:48:14,817 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
-2023-06-11 22:48:14,819 - pyrogram.session.session - INFO - NetworkTask started
-2023-06-11 22:48:15,120 - pyrogram.session.session - INFO - Session initialized: Layer 158
-2023-06-11 22:48:15,121 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
-2023-06-11 22:48:15,121 - pyrogram.session.session - INFO - System: Windows 10 (en)
-2023-06-11 22:48:15,121 - pyrogram.session.session - INFO - Session started
-2023-06-11 22:48:15,125 - pyrogram.session.session - INFO - PingTask started
-2023-06-11 22:48:15,420 - pyrogram.client - WARNING - [stablebot] No plugin loaded from "stablebot/plugins"
-2023-06-11 22:48:15,421 - pyrogram.dispatcher - INFO - Started 16 HandlerTasks
-2023-06-11 22:48:32,267 - root - INFO - Stop signal received (SIGINT). Exiting...
-2023-06-11 22:48:32,271 - pyrogram.dispatcher - INFO - Stopped 16 HandlerTasks
-2023-06-11 22:48:32,271 - pyrogram.session.session - INFO - PingTask stopped
-2023-06-11 22:48:32,272 - pyrogram.connection.connection - INFO - Disconnected
-2023-06-11 22:48:32,272 - pyrogram.session.session - INFO - NetworkTask stopped
-2023-06-11 22:48:32,272 - pyrogram.session.session - INFO - Session stopped
-2023-06-11 22:50:38,544 - pyrogram.connection.connection - INFO - Connecting...
-2023-06-11 22:50:38,594 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
-2023-06-11 22:50:38,595 - pyrogram.session.session - INFO - NetworkTask started
-2023-06-11 22:50:38,846 - pyrogram.session.session - INFO - Session initialized: Layer 158
-2023-06-11 22:50:38,846 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
-2023-06-11 22:50:38,847 - pyrogram.session.session - INFO - System: Windows 10 (en)
-2023-06-11 22:50:38,847 - pyrogram.session.session - INFO - Session started
-2023-06-11 22:50:38,850 - pyrogram.session.session - INFO - PingTask started
-2023-06-11 22:50:39,074 - pyrogram.client - WARNING - [stablebot] No plugin loaded from "stablebot/plugins"
-2023-06-11 22:50:39,075 - pyrogram.dispatcher - INFO - Started 16 HandlerTasks
-2023-06-11 22:53:34,999 - root - INFO - Stop signal received (SIGINT). Exiting...
-2023-06-11 22:53:35,003 - pyrogram.dispatcher - INFO - Stopped 16 HandlerTasks
-2023-06-11 22:53:35,003 - pyrogram.session.session - INFO - PingTask stopped
-2023-06-11 22:53:35,004 - pyrogram.connection.connection - INFO - Disconnected
-2023-06-11 22:53:35,004 - pyrogram.session.session - INFO - NetworkTask stopped
-2023-06-11 22:53:35,004 - pyrogram.session.session - INFO - Session stopped
-2023-06-11 22:53:37,328 - pyrogram.connection.connection - INFO - Connecting...
-2023-06-11 22:53:37,379 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
-2023-06-11 22:53:37,380 - pyrogram.session.session - INFO - NetworkTask started
-2023-06-11 22:53:37,638 - pyrogram.session.session - INFO - Session initialized: Layer 158
-2023-06-11 22:53:37,638 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
-2023-06-11 22:53:37,639 - pyrogram.session.session - INFO - System: Windows 10 (en)
-2023-06-11 22:53:37,639 - pyrogram.session.session - INFO - Session started
-2023-06-11 22:53:37,642 - pyrogram.session.session - INFO - PingTask started
-2023-06-11 22:53:37,857 - pyrogram.client - WARNING - [stablebot] No plugin loaded from "stablebot/plugins"
-2023-06-11 22:53:37,858 - pyrogram.dispatcher - INFO - Started 16 HandlerTasks
-2023-06-11 22:53:58,515 - root - INFO - Stop signal received (SIGINT). Exiting...
-2023-06-11 22:53:58,519 - pyrogram.dispatcher - INFO - Stopped 16 HandlerTasks
-2023-06-11 22:53:58,519 - pyrogram.session.session - INFO - PingTask stopped
-2023-06-11 22:53:58,520 - pyrogram.connection.connection - INFO - Disconnected
-2023-06-11 22:53:58,520 - pyrogram.session.session - INFO - NetworkTask stopped
-2023-06-11 22:53:58,520 - pyrogram.session.session - INFO - Session stopped
-2023-06-11 22:54:00,928 - pyrogram.connection.connection - INFO - Connecting...
-2023-06-11 22:54:00,979 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
-2023-06-11 22:54:00,980 - pyrogram.session.session - INFO - NetworkTask started
-2023-06-11 22:54:01,240 - pyrogram.session.session - INFO - Session initialized: Layer 158
-2023-06-11 22:54:01,241 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
-2023-06-11 22:54:01,241 - pyrogram.session.session - INFO - System: Windows 10 (en)
-2023-06-11 22:54:01,241 - pyrogram.session.session - INFO - Session started
-2023-06-11 22:54:01,244 - pyrogram.session.session - INFO - PingTask started
-2023-06-11 22:54:01,462 - pyrogram.client - WARNING - [stablebot] No plugin loaded from "stablebot/plugins"
-2023-06-11 22:54:01,464 - pyrogram.dispatcher - INFO - Started 16 HandlerTasks
-2023-06-11 22:54:07,980 - root - INFO - Stop signal received (SIGINT). Exiting...
-2023-06-11 22:54:07,984 - pyrogram.dispatcher - INFO - Stopped 16 HandlerTasks
-2023-06-11 22:54:07,984 - pyrogram.session.session - INFO - PingTask stopped
-2023-06-11 22:54:07,985 - pyrogram.connection.connection - INFO - Disconnected
-2023-06-11 22:54:07,985 - pyrogram.session.session - INFO - NetworkTask stopped
-2023-06-11 22:54:07,985 - pyrogram.session.session - INFO - Session stopped
-2023-06-11 22:54:10,161 - pyrogram.connection.connection - INFO - Connecting...
-2023-06-11 22:54:10,211 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
-2023-06-11 22:54:10,212 - pyrogram.session.session - INFO - NetworkTask started
-2023-06-11 22:54:10,638 - pyrogram.session.session - INFO - Session initialized: Layer 158
-2023-06-11 22:54:10,639 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
-2023-06-11 22:54:10,639 - pyrogram.session.session - INFO - System: Windows 10 (en)
-2023-06-11 22:54:10,639 - pyrogram.session.session - INFO - Session started
-2023-06-11 22:54:10,642 - pyrogram.session.session - INFO - PingTask started
-2023-06-11 22:54:10,922 - pyrogram.client - WARNING - [stablebot] No plugin loaded from "stablebot/plugins"
-2023-06-11 22:54:10,923 - pyrogram.dispatcher - INFO - Started 16 HandlerTasks
-2023-06-11 22:54:54,975 - root - INFO - Stop signal received (SIGINT). Exiting...
-2023-06-11 22:54:54,980 - pyrogram.dispatcher - INFO - Stopped 16 HandlerTasks
-2023-06-11 22:54:54,980 - pyrogram.session.session - INFO - PingTask stopped
-2023-06-11 22:54:54,981 - pyrogram.connection.connection - INFO - Disconnected
-2023-06-11 22:54:54,981 - pyrogram.session.session - INFO - NetworkTask stopped
-2023-06-11 22:54:54,981 - pyrogram.session.session - INFO - Session stopped
-2023-06-11 22:54:57,216 - pyrogram.connection.connection - INFO - Connecting...
-2023-06-11 22:54:57,267 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
-2023-06-11 22:54:57,268 - pyrogram.session.session - INFO - NetworkTask started
-2023-06-11 22:54:57,537 - pyrogram.session.session - INFO - Session initialized: Layer 158
-2023-06-11 22:54:57,537 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
-2023-06-11 22:54:57,538 - pyrogram.session.session - INFO - System: Windows 10 (en)
-2023-06-11 22:54:57,538 - pyrogram.session.session - INFO - Session started
-2023-06-11 22:54:57,541 - pyrogram.session.session - INFO - PingTask started
-2023-06-11 22:54:57,754 - pyrogram.client - WARNING - [stablebot] No plugin loaded from "stablebot/plugins"
-2023-06-11 22:54:57,755 - pyrogram.dispatcher - INFO - Started 16 HandlerTasks
-2023-06-11 22:55:07,414 - root - INFO - Stop signal received (SIGINT). Exiting...
-2023-06-11 22:55:07,418 - pyrogram.dispatcher - INFO - Stopped 16 HandlerTasks
-2023-06-11 22:55:07,418 - pyrogram.session.session - INFO - PingTask stopped
-2023-06-11 22:55:07,418 - pyrogram.connection.connection - INFO - Disconnected
-2023-06-11 22:55:07,419 - pyrogram.session.session - INFO - NetworkTask stopped
-2023-06-11 22:55:07,419 - pyrogram.session.session - INFO - Session stopped
-2023-06-11 22:55:09,378 - pyrogram.connection.connection - INFO - Connecting...
-2023-06-11 22:55:09,428 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
-2023-06-11 22:55:09,429 - pyrogram.session.session - INFO - NetworkTask started
-2023-06-11 22:55:09,692 - pyrogram.session.session - INFO - Session initialized: Layer 158
-2023-06-11 22:55:09,692 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
-2023-06-11 22:55:09,693 - pyrogram.session.session - INFO - System: Windows 10 (en)
-2023-06-11 22:55:09,693 - pyrogram.session.session - INFO - Session started
-2023-06-11 22:55:09,696 - pyrogram.session.session - INFO - PingTask started
-2023-06-11 22:55:09,904 - pyrogram.client - WARNING - [stablebot] No plugin loaded from "stablebot/plugins"
-2023-06-11 22:55:09,905 - pyrogram.dispatcher - INFO - Started 16 HandlerTasks
-2023-06-11 22:58:05,370 - root - INFO - Stop signal received (SIGINT). Exiting...
-2023-06-11 22:58:05,374 - pyrogram.dispatcher - INFO - Stopped 16 HandlerTasks
-2023-06-11 22:58:05,374 - pyrogram.session.session - INFO - PingTask stopped
-2023-06-11 22:58:05,375 - pyrogram.connection.connection - INFO - Disconnected
-2023-06-11 22:58:05,375 - pyrogram.session.session - INFO - NetworkTask stopped
-2023-06-11 22:58:05,375 - pyrogram.session.session - INFO - Session stopped
-2023-06-11 22:58:08,120 - pyrogram.connection.connection - INFO - Connecting...
-2023-06-11 22:58:08,170 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
-2023-06-11 22:58:08,171 - pyrogram.session.session - INFO - NetworkTask started
-2023-06-11 22:58:08,430 - pyrogram.session.session - INFO - Session initialized: Layer 158
-2023-06-11 22:58:08,430 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
-2023-06-11 22:58:08,431 - pyrogram.session.session - INFO - System: Windows 10 (en)
-2023-06-11 22:58:08,431 - pyrogram.session.session - INFO - Session started
-2023-06-11 22:58:08,434 - pyrogram.session.session - INFO - PingTask started
-2023-06-11 22:58:08,657 - pyrogram.client - WARNING - [stablebot] No plugin loaded from "stablebot/plugins"
-2023-06-11 22:58:08,658 - pyrogram.dispatcher - INFO - Started 16 HandlerTasks
-2023-06-11 23:01:50,938 - root - INFO - Stop signal received (SIGINT). Exiting...
-2023-06-11 23:01:50,955 - pyrogram.dispatcher - INFO - Stopped 16 HandlerTasks
-2023-06-11 23:01:50,956 - pyrogram.session.session - INFO - PingTask stopped
-2023-06-11 23:01:50,957 - pyrogram.connection.connection - INFO - Disconnected
-2023-06-11 23:01:50,957 - pyrogram.session.session - INFO - NetworkTask stopped
-2023-06-11 23:01:50,957 - pyrogram.session.session - INFO - Session stopped
-2023-06-11 23:01:53,790 - pyrogram.connection.connection - INFO - Connecting...
-2023-06-11 23:01:53,841 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
-2023-06-11 23:01:53,842 - pyrogram.session.session - INFO - NetworkTask started
-2023-06-11 23:01:54,164 - pyrogram.session.session - INFO - Session initialized: Layer 158
-2023-06-11 23:01:54,165 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
-2023-06-11 23:01:54,165 - pyrogram.session.session - INFO - System: Windows 10 (en)
-2023-06-11 23:01:54,165 - pyrogram.session.session - INFO - Session started
-2023-06-11 23:01:54,168 - pyrogram.session.session - INFO - PingTask started
-2023-06-11 23:01:54,423 - pyrogram.client - WARNING - [stablebot] No plugin loaded from "stablebot/plugins"
-2023-06-11 23:01:54,424 - pyrogram.dispatcher - INFO - Started 16 HandlerTasks
-2023-06-11 23:03:46,609 - pyrogram.connection.connection - INFO - Connecting...
-2023-06-11 23:03:46,660 - pyrogram.connection.connection - INFO - Connected! Production DC5 (media) - IPv4
-2023-06-11 23:03:46,660 - pyrogram.session.session - INFO - NetworkTask started
-2023-06-11 23:03:46,923 - pyrogram.session.session - INFO - Session initialized: Layer 158
-2023-06-11 23:03:46,923 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
-2023-06-11 23:03:46,924 - pyrogram.session.session - INFO - System: Windows 10 (en)
-2023-06-11 23:03:46,924 - pyrogram.session.session - INFO - Session started
-2023-06-11 23:03:46,925 - pyrogram.session.session - INFO - PingTask started
-2023-06-11 23:03:47,234 - pyrogram.session.session - INFO - PingTask stopped
-2023-06-11 23:03:47,234 - pyrogram.connection.connection - INFO - Disconnected
-2023-06-11 23:03:47,234 - pyrogram.session.session - INFO - NetworkTask stopped
-2023-06-11 23:03:47,234 - pyrogram.session.session - INFO - Session stopped
-2023-06-11 23:04:13,148 - pyrogram.session.session - INFO - NetworkTask stopped
-2023-06-11 23:04:13,154 - pyrogram.session.session - INFO - PingTask stopped
-2023-06-11 23:04:13,154 - pyrogram.connection.connection - INFO - Disconnected
-2023-06-11 23:04:13,155 - pyrogram.session.session - INFO - Session stopped
-2023-06-11 23:04:13,155 - pyrogram.connection.connection - INFO - Connecting...
-2023-06-11 23:04:13,207 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
-2023-06-11 23:04:13,207 - pyrogram.session.session - INFO - NetworkTask started
-2023-06-11 23:04:13,418 - pyrogram.session.session - INFO - Session initialized: Layer 158
-2023-06-11 23:04:13,418 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
-2023-06-11 23:04:13,418 - pyrogram.session.session - INFO - System: Windows 10 (en)
-2023-06-11 23:04:13,419 - pyrogram.session.session - INFO - Session started
-2023-06-11 23:04:13,419 - pyrogram.session.session - INFO - PingTask started
-2023-06-11 23:04:25,857 - pyrogram.connection.connection - INFO - Connecting...
-2023-06-11 23:04:25,907 - pyrogram.connection.connection - INFO - Connected! Production DC5 (media) - IPv4
-2023-06-11 23:04:25,907 - pyrogram.session.session - INFO - NetworkTask started
-2023-06-11 23:04:26,160 - pyrogram.session.session - INFO - Session initialized: Layer 158
-2023-06-11 23:04:26,160 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
-2023-06-11 23:04:26,160 - pyrogram.session.session - INFO - System: Windows 10 (en)
-2023-06-11 23:04:26,161 - pyrogram.session.session - INFO - Session started
-2023-06-11 23:04:26,162 - pyrogram.session.session - INFO - PingTask started
-2023-06-11 23:04:26,477 - pyrogram.session.session - INFO - PingTask stopped
-2023-06-11 23:04:26,478 - pyrogram.connection.connection - INFO - Disconnected
-2023-06-11 23:04:26,478 - pyrogram.session.session - INFO - NetworkTask stopped
-2023-06-11 23:04:26,479 - pyrogram.session.session - INFO - Session stopped
-2023-06-11 23:50:05,718 - pyrogram.session.session - INFO - NetworkTask stopped
-2023-06-11 23:50:05,719 - pyrogram.session.session - INFO - PingTask stopped
-2023-06-11 23:50:05,719 - pyrogram.connection.connection - INFO - Disconnected
-2023-06-11 23:50:05,720 - pyrogram.session.session - INFO - Session stopped
-2023-06-11 23:50:05,720 - pyrogram.connection.connection - INFO - Connecting...
-2023-06-11 23:50:05,770 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
-2023-06-11 23:50:05,770 - pyrogram.session.session - INFO - NetworkTask started
-2023-06-11 23:50:06,029 - pyrogram.session.session - INFO - Session initialized: Layer 158
-2023-06-11 23:50:06,029 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
-2023-06-11 23:50:06,030 - pyrogram.session.session - INFO - System: Windows 10 (en)
-2023-06-11 23:50:06,030 - pyrogram.session.session - INFO - Session started
-2023-06-11 23:50:06,030 - pyrogram.session.session - INFO - PingTask started
+  File "C:\Users\user\PycharmProjects\stable-difussion-bot\stablebot\plugins\base_text_to_image.py", line 14, in base_text_to_image
+    steps = int(message.command[2])
+ValueError: invalid literal for int() with base 10: 'man'
+2023-06-12 00:40:12,661 - pyrogram.connection.connection - INFO - Connecting...
+2023-06-12 00:40:12,711 - pyrogram.connection.connection - INFO - Connected! Production DC5 (media) - IPv4
+2023-06-12 00:40:12,712 - pyrogram.session.session - INFO - NetworkTask started
+2023-06-12 00:40:12,961 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2023-06-12 00:40:12,962 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
+2023-06-12 00:40:12,962 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2023-06-12 00:40:12,962 - pyrogram.session.session - INFO - Session started
+2023-06-12 00:40:12,963 - pyrogram.session.session - INFO - PingTask started
+2023-06-12 00:40:13,309 - pyrogram.session.session - INFO - PingTask stopped
+2023-06-12 00:40:13,309 - pyrogram.connection.connection - INFO - Disconnected
+2023-06-12 00:40:13,309 - pyrogram.session.session - INFO - NetworkTask stopped
+2023-06-12 00:40:13,309 - pyrogram.session.session - INFO - Session stopped
+2023-06-12 00:42:49,918 - root - INFO - Stop signal received (SIGINT). Exiting...
+2023-06-12 00:42:49,922 - pyrogram.dispatcher - INFO - Stopped 16 HandlerTasks
+2023-06-12 00:42:49,922 - pyrogram.session.session - INFO - PingTask stopped
+2023-06-12 00:42:49,923 - pyrogram.connection.connection - INFO - Disconnected
+2023-06-12 00:42:49,923 - pyrogram.session.session - INFO - NetworkTask stopped
+2023-06-12 00:42:49,923 - pyrogram.session.session - INFO - Session stopped
+2023-06-12 00:42:52,514 - pyrogram.connection.connection - INFO - Connecting...
+2023-06-12 00:42:52,564 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
+2023-06-12 00:42:52,565 - pyrogram.session.session - INFO - NetworkTask started
+2023-06-12 00:42:52,815 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2023-06-12 00:42:52,816 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
+2023-06-12 00:42:52,816 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2023-06-12 00:42:52,816 - pyrogram.session.session - INFO - Session started
+2023-06-12 00:42:52,820 - pyrogram.session.session - INFO - PingTask started
+2023-06-12 00:42:53,024 - pyrogram.client - WARNING - [stablebot] No plugin loaded from "stablebot/plugins"
+2023-06-12 00:42:53,025 - pyrogram.dispatcher - INFO - Started 16 HandlerTasks
+2023-06-12 00:43:07,600 - pyrogram.connection.connection - INFO - Connecting...
+2023-06-12 00:43:07,650 - pyrogram.connection.connection - INFO - Connected! Production DC5 (media) - IPv4
+2023-06-12 00:43:07,651 - pyrogram.session.session - INFO - NetworkTask started
+2023-06-12 00:43:07,901 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2023-06-12 00:43:07,902 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
+2023-06-12 00:43:07,902 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2023-06-12 00:43:07,902 - pyrogram.session.session - INFO - Session started
+2023-06-12 00:43:07,903 - pyrogram.session.session - INFO - PingTask started
+2023-06-12 00:43:08,217 - pyrogram.session.session - INFO - PingTask stopped
+2023-06-12 00:43:08,217 - pyrogram.connection.connection - INFO - Disconnected
+2023-06-12 00:43:08,217 - pyrogram.session.session - INFO - NetworkTask stopped
+2023-06-12 00:43:08,218 - pyrogram.session.session - INFO - Session stopped
+2023-06-12 00:43:37,875 - pyrogram.connection.connection - INFO - Connecting...
+2023-06-12 00:43:37,876 - pyrogram.session.session - INFO - NetworkTask stopped
+2023-06-12 00:43:37,876 - pyrogram.session.session - INFO - PingTask stopped
+2023-06-12 00:43:37,877 - pyrogram.connection.connection - INFO - Disconnected
+2023-06-12 00:43:37,877 - pyrogram.session.session - INFO - Session stopped
+2023-06-12 00:43:37,877 - pyrogram.connection.connection - INFO - Connecting...
+2023-06-12 00:43:37,925 - pyrogram.connection.connection - INFO - Connected! Production DC5 (media) - IPv4
+2023-06-12 00:43:37,926 - pyrogram.session.session - INFO - NetworkTask started
+2023-06-12 00:43:37,926 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
+2023-06-12 00:43:37,927 - pyrogram.session.session - INFO - NetworkTask started
+2023-06-12 00:43:38,131 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2023-06-12 00:43:38,132 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
+2023-06-12 00:43:38,132 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2023-06-12 00:43:38,132 - pyrogram.session.session - INFO - Session started
+2023-06-12 00:43:38,132 - pyrogram.session.session - INFO - PingTask started
+2023-06-12 00:43:38,182 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2023-06-12 00:43:38,182 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
+2023-06-12 00:43:38,183 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2023-06-12 00:43:38,183 - pyrogram.session.session - INFO - Session started
+2023-06-12 00:43:38,184 - pyrogram.session.session - INFO - PingTask started
+2023-06-12 00:43:38,509 - pyrogram.session.session - INFO - PingTask stopped
+2023-06-12 00:43:38,509 - pyrogram.connection.connection - INFO - Disconnected
+2023-06-12 00:43:38,510 - pyrogram.session.session - INFO - NetworkTask stopped
+2023-06-12 00:43:38,510 - pyrogram.session.session - INFO - Session stopped
+2023-06-12 00:45:47,041 - root - INFO - Stop signal received (SIGINT). Exiting...
+2023-06-12 00:45:47,045 - pyrogram.dispatcher - INFO - Stopped 16 HandlerTasks
+2023-06-12 00:45:47,045 - pyrogram.session.session - INFO - PingTask stopped
+2023-06-12 00:45:47,046 - pyrogram.connection.connection - INFO - Disconnected
+2023-06-12 00:45:47,046 - pyrogram.session.session - INFO - NetworkTask stopped
+2023-06-12 00:45:47,046 - pyrogram.session.session - INFO - Session stopped
+2023-06-12 00:45:49,399 - pyrogram.connection.connection - INFO - Connecting...
+2023-06-12 00:45:49,450 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
+2023-06-12 00:45:49,451 - pyrogram.session.session - INFO - NetworkTask started
+2023-06-12 00:45:49,721 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2023-06-12 00:45:49,721 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
+2023-06-12 00:45:49,721 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2023-06-12 00:45:49,722 - pyrogram.session.session - INFO - Session started
+2023-06-12 00:45:49,725 - pyrogram.session.session - INFO - PingTask started
+2023-06-12 00:45:49,945 - pyrogram.client - WARNING - [stablebot] No plugin loaded from "stablebot/plugins"
+2023-06-12 00:45:49,946 - pyrogram.dispatcher - INFO - Started 16 HandlerTasks
+2023-06-12 00:45:58,065 - pyrogram.connection.connection - INFO - Connecting...
+2023-06-12 00:45:58,115 - pyrogram.connection.connection - INFO - Connected! Production DC5 (media) - IPv4
+2023-06-12 00:45:58,116 - pyrogram.session.session - INFO - NetworkTask started
+2023-06-12 00:45:58,366 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2023-06-12 00:45:58,366 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
+2023-06-12 00:45:58,366 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2023-06-12 00:45:58,367 - pyrogram.session.session - INFO - Session started
+2023-06-12 00:45:58,367 - pyrogram.session.session - INFO - PingTask started
+2023-06-12 00:45:58,696 - pyrogram.session.session - INFO - PingTask stopped
+2023-06-12 00:45:58,697 - pyrogram.connection.connection - INFO - Disconnected
+2023-06-12 00:45:58,697 - pyrogram.session.session - INFO - NetworkTask stopped
+2023-06-12 00:45:58,697 - pyrogram.session.session - INFO - Session stopped
+2023-06-12 00:46:12,812 - pyrogram.connection.connection - INFO - Connecting...
+2023-06-12 00:46:12,862 - pyrogram.connection.connection - INFO - Connected! Production DC5 (media) - IPv4
+2023-06-12 00:46:12,863 - pyrogram.session.session - INFO - NetworkTask started
+2023-06-12 00:46:13,112 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2023-06-12 00:46:13,113 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
+2023-06-12 00:46:13,113 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2023-06-12 00:46:13,113 - pyrogram.session.session - INFO - Session started
+2023-06-12 00:46:13,114 - pyrogram.session.session - INFO - PingTask started
+2023-06-12 00:46:13,432 - pyrogram.session.session - INFO - PingTask stopped
+2023-06-12 00:46:13,433 - pyrogram.connection.connection - INFO - Disconnected
+2023-06-12 00:46:13,433 - pyrogram.session.session - INFO - NetworkTask stopped
+2023-06-12 00:46:13,433 - pyrogram.session.session - INFO - Session stopped
+2023-06-12 00:46:23,458 - pyrogram.connection.connection - INFO - Connecting...
+2023-06-12 00:46:23,508 - pyrogram.connection.connection - INFO - Connected! Production DC5 (media) - IPv4
+2023-06-12 00:46:23,509 - pyrogram.session.session - INFO - NetworkTask started
+2023-06-12 00:46:23,761 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2023-06-12 00:46:23,762 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
+2023-06-12 00:46:23,762 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2023-06-12 00:46:23,762 - pyrogram.session.session - INFO - Session started
+2023-06-12 00:46:23,763 - pyrogram.session.session - INFO - PingTask started
+2023-06-12 00:46:24,076 - pyrogram.session.session - INFO - PingTask stopped
+2023-06-12 00:46:24,077 - pyrogram.connection.connection - INFO - Disconnected
+2023-06-12 00:46:24,077 - pyrogram.session.session - INFO - NetworkTask stopped
+2023-06-12 00:46:24,077 - pyrogram.session.session - INFO - Session stopped
+2023-06-12 00:46:45,134 - pyrogram.connection.connection - INFO - Connecting...
+2023-06-12 00:46:45,184 - pyrogram.connection.connection - INFO - Connected! Production DC5 (media) - IPv4
+2023-06-12 00:46:45,184 - pyrogram.session.session - INFO - NetworkTask started
+2023-06-12 00:46:45,463 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2023-06-12 00:46:45,464 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
+2023-06-12 00:46:45,464 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2023-06-12 00:46:45,464 - pyrogram.session.session - INFO - Session started
+2023-06-12 00:46:45,465 - pyrogram.session.session - INFO - PingTask started
+2023-06-12 00:46:45,810 - pyrogram.session.session - INFO - PingTask stopped
+2023-06-12 00:46:45,810 - pyrogram.connection.connection - INFO - Disconnected
+2023-06-12 00:46:45,811 - pyrogram.session.session - INFO - NetworkTask stopped
+2023-06-12 00:46:45,811 - pyrogram.session.session - INFO - Session stopped
+2023-06-12 00:46:57,573 - pyrogram.connection.connection - INFO - Connecting...
+2023-06-12 00:46:57,623 - pyrogram.connection.connection - INFO - Connected! Production DC5 (media) - IPv4
+2023-06-12 00:46:57,624 - pyrogram.session.session - INFO - NetworkTask started
+2023-06-12 00:46:57,871 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2023-06-12 00:46:57,871 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
+2023-06-12 00:46:57,871 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2023-06-12 00:46:57,872 - pyrogram.session.session - INFO - Session started
+2023-06-12 00:46:57,872 - pyrogram.session.session - INFO - PingTask started
+2023-06-12 00:46:58,196 - pyrogram.session.session - INFO - PingTask stopped
+2023-06-12 00:46:58,197 - pyrogram.connection.connection - INFO - Disconnected
+2023-06-12 00:46:58,197 - pyrogram.session.session - INFO - NetworkTask stopped
+2023-06-12 00:46:58,197 - pyrogram.session.session - INFO - Session stopped
+2023-06-12 00:47:17,087 - pyrogram.session.session - INFO - NetworkTask stopped
+2023-06-12 00:47:17,087 - pyrogram.session.session - INFO - PingTask stopped
+2023-06-12 00:47:17,088 - pyrogram.connection.connection - INFO - Disconnected
+2023-06-12 00:47:17,088 - pyrogram.session.session - INFO - Session stopped
+2023-06-12 00:47:17,088 - pyrogram.connection.connection - INFO - Connecting...
+2023-06-12 00:47:17,137 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
+2023-06-12 00:47:17,137 - pyrogram.session.session - INFO - NetworkTask started
+2023-06-12 00:47:17,508 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2023-06-12 00:47:17,508 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
+2023-06-12 00:47:17,509 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2023-06-12 00:47:17,509 - pyrogram.session.session - INFO - Session started
+2023-06-12 00:47:17,509 - pyrogram.session.session - INFO - PingTask started
+2023-06-12 00:47:17,649 - pyrogram.connection.connection - INFO - Connecting...
+2023-06-12 00:47:17,699 - pyrogram.connection.connection - INFO - Connected! Production DC5 (media) - IPv4
+2023-06-12 00:47:17,699 - pyrogram.session.session - INFO - NetworkTask started
+2023-06-12 00:47:17,948 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2023-06-12 00:47:17,949 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
+2023-06-12 00:47:17,949 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2023-06-12 00:47:17,949 - pyrogram.session.session - INFO - Session started
+2023-06-12 00:47:17,950 - pyrogram.session.session - INFO - PingTask started
+2023-06-12 00:47:18,269 - pyrogram.session.session - INFO - PingTask stopped
+2023-06-12 00:47:18,269 - pyrogram.connection.connection - INFO - Disconnected
+2023-06-12 00:47:18,270 - pyrogram.session.session - INFO - NetworkTask stopped
+2023-06-12 00:47:18,270 - pyrogram.session.session - INFO - Session stopped
+2023-06-12 00:47:33,103 - root - INFO - Stop signal received (SIGINT). Exiting...
+2023-06-12 00:47:33,107 - pyrogram.dispatcher - INFO - Stopped 16 HandlerTasks
+2023-06-12 00:47:33,107 - pyrogram.session.session - INFO - PingTask stopped
+2023-06-12 00:47:33,108 - pyrogram.connection.connection - INFO - Disconnected
+2023-06-12 00:47:33,108 - pyrogram.session.session - INFO - NetworkTask stopped
+2023-06-12 00:47:33,108 - pyrogram.session.session - INFO - Session stopped
+2023-06-12 00:47:35,352 - pyrogram.connection.connection - INFO - Connecting...
+2023-06-12 00:47:35,402 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
+2023-06-12 00:47:35,403 - pyrogram.session.session - INFO - NetworkTask started
+2023-06-12 00:47:35,654 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2023-06-12 00:47:35,654 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
+2023-06-12 00:47:35,654 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2023-06-12 00:47:35,655 - pyrogram.session.session - INFO - Session started
+2023-06-12 00:47:35,658 - pyrogram.session.session - INFO - PingTask started
+2023-06-12 00:47:35,856 - pyrogram.client - WARNING - [stablebot] No plugin loaded from "stablebot/plugins"
+2023-06-12 00:47:35,857 - pyrogram.dispatcher - INFO - Started 16 HandlerTasks
+2023-06-12 00:47:41,446 - pyrogram.connection.connection - INFO - Connecting...
+2023-06-12 00:47:41,497 - pyrogram.connection.connection - INFO - Connected! Production DC5 (media) - IPv4
+2023-06-12 00:47:41,497 - pyrogram.session.session - INFO - NetworkTask started
+2023-06-12 00:47:41,752 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2023-06-12 00:47:41,752 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
+2023-06-12 00:47:41,752 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2023-06-12 00:47:41,753 - pyrogram.session.session - INFO - Session started
+2023-06-12 00:47:41,753 - pyrogram.session.session - INFO - PingTask started
+2023-06-12 00:47:42,081 - pyrogram.session.session - INFO - PingTask stopped
+2023-06-12 00:47:42,081 - pyrogram.connection.connection - INFO - Disconnected
+2023-06-12 00:47:42,081 - pyrogram.session.session - INFO - NetworkTask stopped
+2023-06-12 00:47:42,082 - pyrogram.session.session - INFO - Session stopped
+2023-06-12 00:47:53,295 - pyrogram.connection.connection - INFO - Connecting...
+2023-06-12 00:47:53,345 - pyrogram.connection.connection - INFO - Connected! Production DC5 (media) - IPv4
+2023-06-12 00:47:53,345 - pyrogram.session.session - INFO - NetworkTask started
+2023-06-12 00:47:53,594 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2023-06-12 00:47:53,595 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
+2023-06-12 00:47:53,595 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2023-06-12 00:47:53,595 - pyrogram.session.session - INFO - Session started
+2023-06-12 00:47:53,596 - pyrogram.session.session - INFO - PingTask started
+2023-06-12 00:47:53,906 - pyrogram.session.session - INFO - PingTask stopped
+2023-06-12 00:47:53,907 - pyrogram.connection.connection - INFO - Disconnected
+2023-06-12 00:47:53,907 - pyrogram.session.session - INFO - NetworkTask stopped
+2023-06-12 00:47:53,907 - pyrogram.session.session - INFO - Session stopped

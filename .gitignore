@@ -4,3 +4,5 @@ stablebot.session
 stablebot.session-journal
 venv
 .idea
+logs/*
+activity.csv
