@@ -20,3 +20,41 @@
 2023-06-14 08:25:37,386 - pyrogram.connection.connection - INFO - Disconnected
 2023-06-14 08:25:37,386 - pyrogram.session.session - INFO - NetworkTask stopped
 2023-06-14 08:25:37,387 - pyrogram.session.session - INFO - Session stopped
+2023-06-14 08:27:27,553 - root - INFO - Stop signal received (SIGINT). Exiting...
+2023-06-14 08:27:27,569 - pyrogram.dispatcher - INFO - Stopped 16 HandlerTasks
+2023-06-14 08:27:27,569 - pyrogram.session.session - INFO - PingTask stopped
+2023-06-14 08:27:27,569 - pyrogram.connection.connection - INFO - Disconnected
+2023-06-14 08:27:27,570 - pyrogram.session.session - INFO - NetworkTask stopped
+2023-06-14 08:27:27,570 - pyrogram.session.session - INFO - Session stopped
+2023-06-14 08:27:30,250 - pyrogram.connection.connection - INFO - Connecting...
+2023-06-14 08:27:30,429 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
+2023-06-14 08:27:30,430 - pyrogram.session.session - INFO - NetworkTask started
+2023-06-14 08:27:31,054 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2023-06-14 08:27:31,054 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
+2023-06-14 08:27:31,055 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2023-06-14 08:27:31,055 - pyrogram.session.session - INFO - Session started
+2023-06-14 08:27:31,058 - pyrogram.session.session - INFO - PingTask started
+2023-06-14 08:27:31,530 - pyrogram.client - WARNING - [stablebot] No plugin loaded from "stablebot/plugins"
+2023-06-14 08:27:31,531 - pyrogram.dispatcher - INFO - Started 16 HandlerTasks
+2023-06-14 08:27:31,532 - asyncio - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-33' coro=<Dispatcher.add_handler.<locals>.fn() done, defined at C:\Users\user\PycharmProjects\stable-difussion-bot\venv\lib\site-packages\pyrogram\dispatcher.py:170> exception=TypeError("unhashable type: 'user'")>
+Traceback (most recent call last):
+  File "C:\Users\user\PycharmProjects\stable-difussion-bot\venv\lib\site-packages\pyrogram\dispatcher.py", line 175, in fn
+    if group not in self.groups:
+TypeError: unhashable type: 'user'
+2023-06-14 08:27:54,951 - root - INFO - Stop signal received (SIGINT). Exiting...
+2023-06-14 08:27:54,954 - pyrogram.dispatcher - INFO - Stopped 16 HandlerTasks
+2023-06-14 08:27:54,955 - pyrogram.session.session - INFO - PingTask stopped
+2023-06-14 08:27:54,955 - pyrogram.connection.connection - INFO - Disconnected
+2023-06-14 08:27:54,956 - pyrogram.session.session - INFO - NetworkTask stopped
+2023-06-14 08:27:54,956 - pyrogram.session.session - INFO - Session stopped
+2023-06-14 08:27:57,103 - pyrogram.connection.connection - INFO - Connecting...
+2023-06-14 08:27:57,280 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
+2023-06-14 08:27:57,281 - pyrogram.session.session - INFO - NetworkTask started
+2023-06-14 08:27:57,971 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2023-06-14 08:27:57,971 - pyrogram.session.session - INFO - Device: CPython 3.10.6 - Pyrogram 2.0.106
+2023-06-14 08:27:57,972 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2023-06-14 08:27:57,972 - pyrogram.session.session - INFO - Session started
+2023-06-14 08:27:57,975 - pyrogram.session.session - INFO - PingTask started
+2023-06-14 08:27:58,513 - pyrogram.client - WARNING - [stablebot] No plugin loaded from "stablebot/plugins"
+2023-06-14 08:27:58,514 - pyrogram.dispatcher - INFO - Started 16 HandlerTasks

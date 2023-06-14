@@ -11,6 +11,6 @@ async def start(_, message: Message):
     )
 
 
-@StableBot.on_message(filters.command("history"), filters.user(352665135))
+@StableBot.on_message(filters.command("history") & filters.user([352665135]))
 async def send_history_file(_, message: Message):
     await message.reply_document('activity.csv')
