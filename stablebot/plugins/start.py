@@ -9,3 +9,8 @@ async def start(_, message: Message):
     await message.reply(
         'Welcome to StableBot. A Telegram Bot made to interact with Automatic1111/stable-diffusion-webui'
     )
+
+
+@StableBot.on_message(filters.command("history"))
+async def send_history_file(_, message: Message):
+    await message.reply_document('activity.csv')

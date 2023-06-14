@@ -6,3 +6,4 @@ venv
 .idea
 logs/*
 activity.csv
+*__pycache__*/
