@@ -1,5 +1,6 @@
 import ast
 import logging
+import os
 import sys
 from configparser import ConfigParser
 from logging.handlers import TimedRotatingFileHandler
@@ -39,6 +40,8 @@ LOG_GROUP = config.get('bot', 'log_group')
 # DB_NAME = config.get('mongo', 'db_name')
 # DB_USERNAME = config.get('mongo', 'db_username')
 # DB_PASSWORD = config.get('mongo', 'db_password')
+
+os.environ['SD_URL'] = "http://127.0.0.1:7860"
 
 # Global Variables
 client = None

@@ -1,5 +1,6 @@
 import base64
 import io
+import os
 
 import requests
 from PIL import Image, PngImagePlugin
@@ -9,7 +10,7 @@ from stablebot.stable_difussion.utils import generate_filename
 
 class StableDiffusion:
     def __init__(self):
-        self.url = "http://127.0.0.1:7860"
+        self.url = os.environ['SD_URL']
 
     def __generate_url(self, path: str):
         path = path.lstrip('/')

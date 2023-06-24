@@ -40,3 +40,4 @@ async def switch_model_callback(bot: StableBot, callback: CallbackQuery):
         await callback.message.reply(f"SD model changed to \"{selected_model}\" successfully.")
     else:
         await callback.message.reply("Something went wrong. Please check SD Console for more information.")
+

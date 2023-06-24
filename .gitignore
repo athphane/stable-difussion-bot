@@ -5,5 +5,6 @@ stablebot.session-journal
 venv
 .idea
 logs/*
+logs/stablebot.log
 activity.csv
 *__pycache__*/
