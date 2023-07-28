@@ -4,11 +4,14 @@ import os
 from pyrogram import filters, enums
 from pyrogram.types import Message, InputMediaPhoto
 
-from stablebot import StableBot
+from stablebot import StableBot, BAN_USERS
 from stablebot.stable_difussion.api import StableDiffusion
 
 
-@StableBot.on_message(filters.command(['gen', 'generate', 'txt2img']))
+@StableBot.on_message(
+    ~filters.user(BAN_USERS) &
+    filters.command(['gen', 'generate', 'txt2img'])
+)
 async def base_text_to_image(_, message: Message):
     response_message = await message.reply('Generating your prompt...')
 

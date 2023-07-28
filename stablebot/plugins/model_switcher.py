@@ -1,11 +1,14 @@
 from pyrogram import filters, enums
 from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton, CallbackQuery
 
-from stablebot import StableBot, custom_filters
+from stablebot import StableBot, custom_filters, ADMINS
 from stablebot.stable_difussion.api import StableDiffusion
 
 
-@StableBot.on_message(filters.command(['models', 'switch']))
+@StableBot.on_message(
+    ~filters.user(ADMINS) &
+    filters.command(['models', 'switch'])
+)
 async def model_switcher_command(_, message: Message):
     raw_models = StableDiffusion().get_models()
 

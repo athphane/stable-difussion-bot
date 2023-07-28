@@ -34,6 +34,7 @@ config.read(config_file)
 
 # Get from config file.
 ADMINS = ast.literal_eval(config.get('bot', 'admins'))
+BAN_USERS = ast.literal_eval(config.get('bot', 'ban_users'))
 LOG_GROUP = config.get('bot', 'log_group')
 
 # MONGO_URL = config.get('mongo', 'url')
